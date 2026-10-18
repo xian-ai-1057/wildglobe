@@ -56,6 +56,14 @@ npm run dev
 - 直播影片 ID 有時會因主辦方重開直播而改變。執行 `npm run check-streams`，失效的項目會列出該頻道目前正在播的影片，挑一個替換即可。
 - 請只收錄官方或保育單位的真實攝影機，避免重播或 AI 生成的「假直播」。
 
+### 自動檢查 Automated check
+
+GitHub Actions 每天 03:17 UTC 會跑一次 `check-streams`（[`.github/workflows/stream-health.yml`](.github/workflows/stream-health.yml)，也可在 Actions 頁面手動執行）：
+
+- 有直播失效時，自動開一個標籤為 `stream-health` 的 issue，列出失效項目與該頻道目前可替換的直播；之後的檢查會更新同一個 issue，不會重複開
+- 全部恢復正常後，自動關閉該 issue
+- 檢查以頻道的直播列表和 YouTube oEmbed 判斷，避開 YouTube 對 GitHub 伺服器的機器人驗證；若仍被擋，會標成 ⚠️ blocked 而不會誤報失效
+
 ## 部署 Deployment
 
 本專案是純前端靜態網站，部署到 [Vercel](https://vercel.com)：
