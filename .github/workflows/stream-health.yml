@@ -60,7 +60,7 @@ jobs:
               ;;
             1)
               down=$(grep -c '^❌' report.txt || true)
-              title="Stream health: $down stream(s) down"
+              if [ "$down" -eq 1 ]; then title="Stream health: 1 stream down"; else title="Stream health: $down streams down"; fi
               {
                 echo "The daily check found streams that are no longer live or embeddable. [Run]($RUN_URL)"
                 echo
@@ -79,6 +79,10 @@ jobs:
               ;;
             2)
               echo "::warning::YouTube blocked some checks from this runner, and none were confirmed down. Leaving the issue as is. ($summary)"
+              ;;
+            3)
+              echo "::error::Every check was blocked or failed to parse; YouTube may have changed its pages. ($summary)"
+              exit 1
               ;;
             *)
               echo "::error::check-streams exited with unexpected code $CODE"

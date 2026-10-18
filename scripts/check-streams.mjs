@@ -4,10 +4,13 @@
 //
 // How: each channel's /streams page tells us which of its videos are live, and YouTube's oEmbed endpoint
 // tells us whether a video may be embedded. Neither is normally bot-checked, so this also works from CI.
-// Only when a video isn't in its channel's live list do we fall back to its watch page, which YouTube
-// often answers with a bot check on datacenter IPs. Such results are reported as "blocked", not "down".
+// Only when a video isn't in its channel's live list (usually: the broadcaster restarted the stream under
+// a new ID) do we fall back to its watch page. YouTube often bot-checks that page on datacenter IPs, but the
+// page data behind its "LIVE" / "Streamed live on …" line still comes through, so we read liveness from it.
+// Anything we still can't verify is reported as "blocked", not "down".
 //
-// Exit codes: 0 = all OK, 1 = at least one stream is down, 2 = nothing down but some checks were blocked.
+// Exit codes: 0 = all OK, 1 = at least one stream is down, 2 = nothing down but some checks were blocked,
+// 3 = every check was blocked (the checker itself is probably broken).
 // Usage: npm run check-streams [-- path/to/streams.json]
 
 import { readFile } from 'node:fs/promises';
@@ -19,6 +22,8 @@ const HEADERS = {
   Cookie: 'SOCS=CAI; CONSENT=YES+1',
 };
 const DELAY_MS = 1500;
+const RETRY_DELAY_MS = 5000;
+const RETRIES = 2;
 
 // playabilityStatus values that mean "YouTube wants proof you're human", not "the video is gone"
 const BLOCKED_STATUSES = new Set(['LOGIN_REQUIRED']);
@@ -45,6 +50,19 @@ async function fetchHtml(url) {
   return res.text();
 }
 
+/** Runs fn, retrying when YouTube blocks it; occasional one-off blocks happen even from home IPs. */
+async function withRetry(fn) {
+  for (let attempt = 0; ; attempt++) {
+    try {
+      const result = await fn();
+      if (result?.state !== 'blocked' || attempt === RETRIES) return result;
+    } catch (err) {
+      if (!(err instanceof BlockedError) || attempt === RETRIES) throw err;
+    }
+    await sleep(RETRY_DELAY_MS);
+  }
+}
+
 function parseInitialData(html, name) {
   const m = html.match(new RegExp(`var ${name} = (\\{.*?\\});(?:var |</script>)`, 's'));
   return m ? JSON.parse(m[1]) : null;
@@ -54,7 +72,11 @@ const channelCache = new Map();
 
 /** The channel's currently live videos, fetched once per channel. */
 function channelLives(channelId) {
-  if (!channelCache.has(channelId)) channelCache.set(channelId, fetchChannelLives(channelId));
+  if (!channelCache.has(channelId))
+    channelCache.set(
+      channelId,
+      withRetry(() => fetchChannelLives(channelId)),
+    );
   return channelCache.get(channelId);
 }
 
@@ -88,14 +110,38 @@ async function embedStatus(videoId) {
   throw new BlockedError(`oEmbed HTTP ${res.status}`);
 }
 
-/** Fallback for a video missing from its channel's live list (the list can be cut off on busy channels). */
+/** The block that renders the title and "LIVE" / "Streamed live on …" line under a watch page's player. */
+function primaryInfo(html) {
+  let found = null;
+  const walk = (o) => {
+    if (found || !o || typeof o !== 'object') return;
+    if (o.videoPrimaryInfoRenderer) {
+      found = o.videoPrimaryInfoRenderer;
+      return;
+    }
+    for (const k in o) walk(o[k]);
+  };
+  walk(parseInitialData(html, 'ytInitialData'));
+  return found;
+}
+
+/** Fallback for a video missing from its channel's live list: an ID gone stale, or a cut-off list. */
 async function watchPageStatus(videoId) {
   const html = await fetchHtml(`https://www.youtube.com/watch?v=${videoId}`);
   const player = parseInitialData(html, 'ytInitialPlayerResponse');
-  if (!player) return { state: 'blocked', reason: 'no player data in page' };
-  const status = player.playabilityStatus?.status;
+  const status = player?.playabilityStatus?.status;
+
+  if (!player || BLOCKED_STATUSES.has(status)) {
+    // Bot-checked: the player data is withheld, but the page data still says whether it's live.
+    const info = primaryInfo(html);
+    if (!info) return { state: 'blocked', reason: player ? `status ${status}` : 'no player data in page' };
+    const title = info.title?.runs?.map((r) => r.text).join('');
+    if (info.viewCount?.videoViewCountRenderer?.isLive === true) return { state: 'ok', title };
+    const when = info.dateText?.simpleText;
+    return { state: 'down', reason: `not live now${when ? ` (${when})` : ''}`, title };
+  }
+
   const title = player.videoDetails?.title;
-  if (BLOCKED_STATUSES.has(status)) return { state: 'blocked', reason: `status ${status}`, title };
   if (status !== 'OK') return { state: 'down', reason: `status ${status}`, title };
   const live = player.microformat?.playerMicroformatRenderer?.liveBroadcastDetails?.isLiveNow === true;
   if (!live) return { state: 'down', reason: 'not live now', title };
@@ -119,7 +165,7 @@ async function checkStream({ youtube: { videoId, channelId } }) {
     };
 
   const listedLive = lives?.some((l) => l.videoId === target);
-  const live = listedLive ? { state: 'ok' } : await watchPageStatus(target);
+  const live = listedLive ? { state: 'ok' } : await withRetry(() => watchPageStatus(target));
   if (live.state !== 'ok') return { ...live, lives };
 
   return { ...(await embedStatus(target)), lives };
@@ -149,4 +195,4 @@ for (const s of streams) {
 }
 
 console.log(`\n${counts.ok}/${streams.length} streams OK, ${counts.down} down, ${counts.blocked} blocked`);
-process.exit(counts.down ? 1 : counts.blocked ? 2 : 0);
+process.exit(counts.down ? 1 : counts.ok === 0 ? 3 : counts.blocked ? 2 : 0);
