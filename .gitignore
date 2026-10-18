@@ -229,3 +229,5 @@ npm-debug.log*
 
 # Local Claude Code config
 .claude/
+.vercel
+.env*

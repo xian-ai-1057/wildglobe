@@ -231,7 +231,7 @@
     "id": "mara-sbc-safari",
     "country": "KE",
     "lat": -1.4,
-    "lng": 35.0,
+    "lng": 35,
     "name": {
       "zh-TW": "馬賽馬拉六鏡頭野生動物直播",
       "en": "Maasai Mara Live Safari (6 cameras)"
@@ -306,7 +306,7 @@
   {
     "id": "kalahari-desert",
     "country": "NA",
-    "lat": -24.0,
+    "lat": -24,
     "lng": 18.5,
     "name": {
       "zh-TW": "喀拉哈里沙漠水坑",
@@ -553,7 +553,7 @@
   {
     "id": "nw-ontario-night-cam",
     "country": "CA",
-    "lat": 49.0,
+    "lat": 49,
     "lng": -91.5,
     "name": {
       "zh-TW": "安大略西北部夜間野生動物",
@@ -568,5 +568,1749 @@
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
     "source": "Northwest Ontario Birds & Wildlife"
+  },
+  {
+    "id": "brooks-falls-low",
+    "country": "US",
+    "lat": 58.554,
+    "lng": -155.779,
+    "name": {
+      "zh-TW": "布魯克斯瀑布低角度（阿拉斯加卡特邁）",
+      "en": "Brooks Falls Low, Katmai (Alaska)"
+    },
+    "animals": {
+      "zh-TW": "棕熊、鮭魚",
+      "en": "Brown bears, salmon"
+    },
+    "youtube": {
+      "videoId": "EwTH5yY7Mks",
+      "channelId": "UC2Sk0aXLq3ADkH_USGPKT_Q"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "katmai-riffles",
+    "country": "US",
+    "lat": 58.556,
+    "lng": -155.774,
+    "name": {
+      "zh-TW": "卡特邁淺灘（阿拉斯加）",
+      "en": "Riffles, Katmai (Alaska)"
+    },
+    "animals": {
+      "zh-TW": "棕熊、鮭魚",
+      "en": "Brown bears, salmon"
+    },
+    "youtube": {
+      "videoId": "z7_GhJeFxQI",
+      "channelId": "UC2Sk0aXLq3ADkH_USGPKT_Q"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "katmai-river-watch",
+    "country": "US",
+    "lat": 58.558,
+    "lng": -155.782,
+    "name": {
+      "zh-TW": "卡特邁河景（阿拉斯加）",
+      "en": "River Watch, Katmai (Alaska)"
+    },
+    "animals": {
+      "zh-TW": "棕熊",
+      "en": "Brown bears"
+    },
+    "youtube": {
+      "videoId": "wkVLYfU-Kew",
+      "channelId": "UC2Sk0aXLq3ADkH_USGPKT_Q"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "katmai-kats-river-view",
+    "country": "US",
+    "lat": 58.561,
+    "lng": -155.786,
+    "name": {
+      "zh-TW": "卡特邁河口視角（阿拉斯加）",
+      "en": "Kat's River View, Katmai (Alaska)"
+    },
+    "animals": {
+      "zh-TW": "棕熊、水鳥",
+      "en": "Brown bears, waterbirds"
+    },
+    "youtube": {
+      "videoId": "cTsjMtjRLCo",
+      "channelId": "UC2Sk0aXLq3ADkH_USGPKT_Q"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "katmai-underwater-salmon",
+    "country": "US",
+    "lat": 58.555,
+    "lng": -155.776,
+    "name": {
+      "zh-TW": "卡特邁水下鮭魚（阿拉斯加）",
+      "en": "Underwater Salmon Cam, Katmai (Alaska)"
+    },
+    "animals": {
+      "zh-TW": "紅鮭、棕熊",
+      "en": "Sockeye salmon, brown bears"
+    },
+    "youtube": {
+      "videoId": "vu7I315gQpU",
+      "channelId": "UC2Sk0aXLq3ADkH_USGPKT_Q"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "anan-fishing-hole-3",
+    "country": "US",
+    "lat": 56.182,
+    "lng": -131.878,
+    "name": {
+      "zh-TW": "阿南溪三號漁場（阿拉斯加）",
+      "en": "Anan Creek Fishing Hole 3 (Alaska)"
+    },
+    "animals": {
+      "zh-TW": "黑熊、棕熊、鮭魚",
+      "en": "Black bears, brown bears, salmon"
+    },
+    "youtube": {
+      "videoId": "G839-Yj4Cvo",
+      "channelId": "UC2Sk0aXLq3ADkH_USGPKT_Q"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "anan-fishing-hole-4",
+    "country": "US",
+    "lat": 56.178,
+    "lng": -131.882,
+    "name": {
+      "zh-TW": "阿南溪四號漁場（阿拉斯加）",
+      "en": "Anan Creek Fishing Hole 4 (Alaska)"
+    },
+    "animals": {
+      "zh-TW": "黑熊、棕熊、鮭魚",
+      "en": "Black bears, brown bears, salmon"
+    },
+    "youtube": {
+      "videoId": "ypMu3yA7h3s",
+      "channelId": "UC2Sk0aXLq3ADkH_USGPKT_Q"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "anan-forest-view",
+    "country": "US",
+    "lat": 56.184,
+    "lng": -131.885,
+    "name": {
+      "zh-TW": "阿南溪森林（阿拉斯加）",
+      "en": "Anan Creek Forest View (Alaska)"
+    },
+    "animals": {
+      "zh-TW": "黑熊",
+      "en": "Black bears"
+    },
+    "youtube": {
+      "videoId": "RjrRz3t5kO4",
+      "channelId": "UC2Sk0aXLq3ADkH_USGPKT_Q"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "mendenhall-mountain-goats",
+    "country": "US",
+    "lat": 58.42,
+    "lng": -134.55,
+    "name": {
+      "zh-TW": "門登霍爾冰河山羊（阿拉斯加朱諾）",
+      "en": "Mendenhall Glacier Mountain Goats, Juneau (Alaska)"
+    },
+    "animals": {
+      "zh-TW": "雪羊",
+      "en": "Mountain goats"
+    },
+    "youtube": {
+      "videoId": "jJI5w_RVGtQ",
+      "channelId": "UCUtGnX65osNPQ98Y3-SSgpg"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "uaf-muskox",
+    "country": "US",
+    "lat": 64.88,
+    "lng": -147.86,
+    "name": {
+      "zh-TW": "阿拉斯加大學麝牛（費爾班克斯）",
+      "en": "Muskox, UAF Large Animal Research Station (Alaska)"
+    },
+    "animals": {
+      "zh-TW": "麝牛",
+      "en": "Muskoxen"
+    },
+    "youtube": {
+      "videoId": "2t3hVTdetkA",
+      "channelId": "UC1qe_x9mYx1bkMC5uVlZDLQ"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "mission-wolf-zeabs-den",
+    "country": "US",
+    "lat": 37.95,
+    "lng": -105.33,
+    "name": {
+      "zh-TW": "狼使命保護區：齊布洞穴（科羅拉多）",
+      "en": "Mission: Wolf, Zeab's Den (Colorado)"
+    },
+    "animals": {
+      "zh-TW": "灰狼",
+      "en": "Gray wolves"
+    },
+    "youtube": {
+      "videoId": "CYcOoLIU8wA",
+      "channelId": "UC1qe_x9mYx1bkMC5uVlZDLQ"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "mission-wolf-shamans-rock",
+    "country": "US",
+    "lat": 37.96,
+    "lng": -105.32,
+    "name": {
+      "zh-TW": "狼使命保護區：薩滿岩（科羅拉多）",
+      "en": "Mission: Wolf, Shaman's Rock (Colorado)"
+    },
+    "animals": {
+      "zh-TW": "灰狼",
+      "en": "Gray wolves"
+    },
+    "youtube": {
+      "videoId": "BrZ3HMNN90w",
+      "channelId": "UC1qe_x9mYx1bkMC5uVlZDLQ"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "intl-wolf-center-south",
+    "country": "US",
+    "lat": 47.89,
+    "lng": -91.86,
+    "name": {
+      "zh-TW": "國際狼中心南側（明尼蘇達）",
+      "en": "International Wolf Center South (Minnesota)"
+    },
+    "animals": {
+      "zh-TW": "灰狼",
+      "en": "Gray wolves"
+    },
+    "youtube": {
+      "videoId": "CYl_uPm7yto",
+      "channelId": "UC1qe_x9mYx1bkMC5uVlZDLQ"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "grasslands-bison-watering-hole",
+    "country": "CA",
+    "lat": 49.17,
+    "lng": -107.43,
+    "name": {
+      "zh-TW": "草原國家公園野牛水塘（薩斯喀徹溫）",
+      "en": "Grasslands National Park Bison Watering Hole (Saskatchewan)"
+    },
+    "animals": {
+      "zh-TW": "美洲野牛",
+      "en": "Plains bison"
+    },
+    "youtube": {
+      "videoId": "h8h8tFnpLj4",
+      "channelId": "UC1qe_x9mYx1bkMC5uVlZDLQ"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "grasslands-bison-calving",
+    "country": "CA",
+    "lat": 49.22,
+    "lng": -107.55,
+    "name": {
+      "zh-TW": "草原國家公園野牛產犢平原（薩斯喀徹溫）",
+      "en": "Grasslands National Park Calving Plains (Saskatchewan)"
+    },
+    "animals": {
+      "zh-TW": "美洲野牛",
+      "en": "Plains bison"
+    },
+    "youtube": {
+      "videoId": "WjxG5mHc3kg",
+      "channelId": "UC1qe_x9mYx1bkMC5uVlZDLQ"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "wapusk-cape-east",
+    "country": "CA",
+    "lat": 58.77,
+    "lng": -93.2,
+    "name": {
+      "zh-TW": "瓦普斯克國家公園東岬（邱吉爾）",
+      "en": "Cape East, Wapusk National Park (Churchill)"
+    },
+    "animals": {
+      "zh-TW": "北極熊",
+      "en": "Polar bears"
+    },
+    "youtube": {
+      "videoId": "Bq0jBJ4GPQQ",
+      "channelId": "UCQI1rdPytw4jDAjwqXVSgfA"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "wapusk-cape-south",
+    "country": "CA",
+    "lat": 58.65,
+    "lng": -93.35,
+    "name": {
+      "zh-TW": "瓦普斯克國家公園南岬凍原（邱吉爾）",
+      "en": "Cape South Tundra, Wapusk National Park (Churchill)"
+    },
+    "animals": {
+      "zh-TW": "北極熊、北極狐",
+      "en": "Polar bears, Arctic foxes"
+    },
+    "youtube": {
+      "videoId": "dF6frKSZZU8",
+      "channelId": "UCQI1rdPytw4jDAjwqXVSgfA"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "decorah-north-nest",
+    "country": "US",
+    "lat": 43.33,
+    "lng": -91.75,
+    "name": {
+      "zh-TW": "迪科拉北巢白頭海鵰（愛荷華）",
+      "en": "Decorah North Nest (Iowa)"
+    },
+    "animals": {
+      "zh-TW": "白頭海鵰",
+      "en": "Bald eagles"
+    },
+    "youtube": {
+      "videoId": "GGIE1E-kaMQ",
+      "channelId": "UC-2KSeUU5SMCX6XLRD-AEvw"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "catalina-west-end-low",
+    "country": "US",
+    "lat": 33.48,
+    "lng": -118.59,
+    "name": {
+      "zh-TW": "卡塔利娜島西端巢低角度（加州）",
+      "en": "West End Eagle Nest Low Cam, Catalina (California)"
+    },
+    "animals": {
+      "zh-TW": "白頭海鵰",
+      "en": "Bald eagles"
+    },
+    "youtube": {
+      "videoId": "wfuqjSNXZ14",
+      "channelId": "UC8NnosPOvXnm0O1u5YnLQiw"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "two-harbors-eagles",
+    "country": "US",
+    "lat": 33.44,
+    "lng": -118.5,
+    "name": {
+      "zh-TW": "雙港白頭海鵰巢（加州卡塔利娜）",
+      "en": "Two Harbors Bald Eagles, Catalina (California)"
+    },
+    "animals": {
+      "zh-TW": "白頭海鵰",
+      "en": "Bald eagles"
+    },
+    "youtube": {
+      "videoId": "E5T2eHM8tcI",
+      "channelId": "UC8NnosPOvXnm0O1u5YnLQiw"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "two-harbors-overlook",
+    "country": "US",
+    "lat": 33.445,
+    "lng": -118.49,
+    "name": {
+      "zh-TW": "雙港眺望台（加州卡塔利娜）",
+      "en": "Two Harbors Overlook, Catalina (California)"
+    },
+    "animals": {
+      "zh-TW": "白頭海鵰、海鳥",
+      "en": "Bald eagles, seabirds"
+    },
+    "youtube": {
+      "videoId": "2yx7RKxpyzQ",
+      "channelId": "UC8NnosPOvXnm0O1u5YnLQiw"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "fraser-point-eagles",
+    "country": "US",
+    "lat": 34.06,
+    "lng": -119.92,
+    "name": {
+      "zh-TW": "弗雷澤角白頭海鵰巢（海峽群島）",
+      "en": "Fraser Point Bald Eagles, Channel Islands (California)"
+    },
+    "animals": {
+      "zh-TW": "白頭海鵰",
+      "en": "Bald eagles"
+    },
+    "youtube": {
+      "videoId": "OY4V_AppZ6s",
+      "channelId": "UC8NnosPOvXnm0O1u5YnLQiw"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "sauces-eagles",
+    "country": "US",
+    "lat": 34,
+    "lng": -119.83,
+    "name": {
+      "zh-TW": "索斯峽谷白頭海鵰巢（海峽群島）",
+      "en": "Sauces Canyon Bald Eagles, Channel Islands (California)"
+    },
+    "animals": {
+      "zh-TW": "白頭海鵰",
+      "en": "Bald eagles"
+    },
+    "youtube": {
+      "videoId": "rnTsOesC6hE",
+      "channelId": "UC8NnosPOvXnm0O1u5YnLQiw"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "hog-island-osprey",
+    "country": "US",
+    "lat": 43.98,
+    "lng": -69.42,
+    "name": {
+      "zh-TW": "奧杜邦豬島魚鷹巢（緬因）",
+      "en": "Audubon Osprey Nest, Hog Island (Maine)"
+    },
+    "animals": {
+      "zh-TW": "魚鷹",
+      "en": "Ospreys"
+    },
+    "youtube": {
+      "videoId": "O6Ir_sMsTtc",
+      "channelId": "UC8NnosPOvXnm0O1u5YnLQiw"
+    },
+    "source": "explore.org × Audubon"
+  },
+  {
+    "id": "mississippi-flyway",
+    "country": "US",
+    "lat": 43.9,
+    "lng": -91.3,
+    "name": {
+      "zh-TW": "密西西比河候鳥遷徙路線（威斯康辛）",
+      "en": "Mississippi River Flyway (Wisconsin)"
+    },
+    "animals": {
+      "zh-TW": "候鳥、白頭海鵰、天鵝",
+      "en": "Migrating waterfowl, bald eagles, swans"
+    },
+    "youtube": {
+      "videoId": "feR0k8-nkWE",
+      "channelId": "UCpLLHFUEHb89Luv-Gj6ZMgA"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "rowe-sandhill-cranes",
+    "country": "US",
+    "lat": 40.67,
+    "lng": -98.88,
+    "name": {
+      "zh-TW": "羅威保護區沙丘鶴（內布拉斯加）",
+      "en": "Audubon's Rowe Sanctuary Cranes (Nebraska)"
+    },
+    "animals": {
+      "zh-TW": "沙丘鶴",
+      "en": "Sandhill cranes"
+    },
+    "youtube": {
+      "videoId": "i7OhLO2zpFs",
+      "channelId": "UCpLLHFUEHb89Luv-Gj6ZMgA"
+    },
+    "source": "explore.org × Audubon"
+  },
+  {
+    "id": "sacramento-nwr",
+    "country": "US",
+    "lat": 39.43,
+    "lng": -122.18,
+    "name": {
+      "zh-TW": "沙加緬度國家野生動物保護區（加州）",
+      "en": "Sacramento National Wildlife Refuge (California)"
+    },
+    "animals": {
+      "zh-TW": "雁鴨、雪雁",
+      "en": "Ducks, snow geese"
+    },
+    "youtube": {
+      "videoId": "1aPhtRjjzb0",
+      "channelId": "UCpLLHFUEHb89Luv-Gj6ZMgA"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "ash-canyon-javelinas",
+    "country": "US",
+    "lat": 31.39,
+    "lng": -110.23,
+    "name": {
+      "zh-TW": "灰峽谷鳥類保護區（亞利桑那）",
+      "en": "Ash Canyon Bird Sanctuary (Arizona)"
+    },
+    "animals": {
+      "zh-TW": "西貒、蜂鳥、野鳥",
+      "en": "Javelinas, hummingbirds, birds"
+    },
+    "youtube": {
+      "videoId": "8UJzCnGwHHw",
+      "channelId": "UCpLLHFUEHb89Luv-Gj6ZMgA"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "mara-fig-tree-crossing",
+    "country": "KE",
+    "lat": -1.53,
+    "lng": 35.03,
+    "name": {
+      "zh-TW": "馬賽馬拉無花果樹渡河點",
+      "en": "Masai Mara Fig Tree Crossing"
+    },
+    "animals": {
+      "zh-TW": "牛羚、斑馬、尼羅鱷",
+      "en": "Wildebeest, zebras, Nile crocodiles"
+    },
+    "youtube": {
+      "videoId": "Io1Kle7QR-E",
+      "channelId": "UCiGOIXjFqy5_mUNxQNOMfHw"
+    },
+    "source": "Africam × explore.org"
+  },
+  {
+    "id": "makgadikgadi-salt-pan",
+    "country": "BW",
+    "lat": -20.6,
+    "lng": 25.2,
+    "name": {
+      "zh-TW": "馬卡迪卡迪鹽沼（喀拉哈里）",
+      "en": "Makgadikgadi Salt Pans, Kalahari"
+    },
+    "animals": {
+      "zh-TW": "斑馬、牛羚、紅鶴",
+      "en": "Zebras, wildebeest, flamingos"
+    },
+    "youtube": {
+      "videoId": "epZP0VOirh0",
+      "channelId": "UCiGOIXjFqy5_mUNxQNOMfHw"
+    },
+    "source": "Africam × explore.org"
+  },
+  {
+    "id": "naledi-cat-eye",
+    "country": "ZA",
+    "lat": -24.15,
+    "lng": 31.15,
+    "name": {
+      "zh-TW": "納萊迪「貓眼」低角度水坑",
+      "en": "Naledi Cat-EYE Waterhole"
+    },
+    "animals": {
+      "zh-TW": "長頸鹿、大象、獵豹",
+      "en": "Giraffes, elephants, cheetahs"
+    },
+    "youtube": {
+      "videoId": "pZZst4BOpVI",
+      "channelId": "UCiGOIXjFqy5_mUNxQNOMfHw"
+    },
+    "source": "Africam × explore.org"
+  },
+  {
+    "id": "rosies-pan",
+    "country": "ZA",
+    "lat": -24.75,
+    "lng": 31.47,
+    "name": {
+      "zh-TW": "蘿西水坑（薩比沙）",
+      "en": "Rosie's Pan, Sabi Sand"
+    },
+    "animals": {
+      "zh-TW": "非洲五霸、羚羊",
+      "en": "Big Five, antelope"
+    },
+    "youtube": {
+      "videoId": "ItdXaWUVF48",
+      "channelId": "UCiGOIXjFqy5_mUNxQNOMfHw"
+    },
+    "source": "Africam × explore.org"
+  },
+  {
+    "id": "grace-gorillas",
+    "country": "CD",
+    "lat": -0.2,
+    "lng": 28.97,
+    "name": {
+      "zh-TW": "GRACE 格勞爾大猩猩森林廊道",
+      "en": "GRACE Grauer's Gorilla Forest Corridor"
+    },
+    "animals": {
+      "zh-TW": "格勞爾大猩猩（東部低地大猩猩）",
+      "en": "Grauer's gorillas"
+    },
+    "youtube": {
+      "videoId": "YaDkA5CkFXk",
+      "channelId": "UC8pWwNkJhWfn6dwZB6xdbLQ"
+    },
+    "source": "explore.org × GRACE"
+  },
+  {
+    "id": "lola-ya-bonobo",
+    "country": "CD",
+    "lat": -4.48,
+    "lng": 15.22,
+    "name": {
+      "zh-TW": "洛拉雅巴諾布猿保護區（金夏沙）",
+      "en": "Lola ya Bonobo Sanctuary (Kinshasa)"
+    },
+    "animals": {
+      "zh-TW": "巴諾布猿",
+      "en": "Bonobos"
+    },
+    "youtube": {
+      "videoId": "gqP5nBCRbHA",
+      "channelId": "UC8pWwNkJhWfn6dwZB6xdbLQ"
+    },
+    "source": "explore.org × Lola ya Bonobo"
+  },
+  {
+    "id": "lola-ya-bonobo-nursery",
+    "country": "CD",
+    "lat": -4.47,
+    "lng": 15.24,
+    "name": {
+      "zh-TW": "洛拉雅巴諾布猿育幼室",
+      "en": "Lola ya Bonobo Nursery"
+    },
+    "animals": {
+      "zh-TW": "巴諾布猿寶寶",
+      "en": "Baby bonobos"
+    },
+    "youtube": {
+      "videoId": "mquay4ouPHU",
+      "channelId": "UC8pWwNkJhWfn6dwZB6xdbLQ"
+    },
+    "source": "explore.org × Lola ya Bonobo"
+  },
+  {
+    "id": "silver-springs-underwater",
+    "country": "US",
+    "lat": 29.216,
+    "lng": -82.053,
+    "name": {
+      "zh-TW": "銀泉州立公園水下（佛羅里達）",
+      "en": "Silver Springs Underwater (Florida)"
+    },
+    "animals": {
+      "zh-TW": "海牛、魚群",
+      "en": "Manatees, fish"
+    },
+    "youtube": {
+      "videoId": "uWiJ9qCYxoo",
+      "channelId": "UCSyg9cb3Iq-NtlbxqNB9wGw"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "silver-springs-above",
+    "country": "US",
+    "lat": 29.218,
+    "lng": -82.049,
+    "name": {
+      "zh-TW": "銀泉州立公園水面（佛羅里達）",
+      "en": "Silver Springs Above Water (Florida)"
+    },
+    "animals": {
+      "zh-TW": "海牛、水鳥",
+      "en": "Manatees, waterbirds"
+    },
+    "youtube": {
+      "videoId": "jxnehowX-9Y",
+      "channelId": "UCSyg9cb3Iq-NtlbxqNB9wGw"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "utila-back-channel",
+    "country": "HN",
+    "lat": 16.075,
+    "lng": -86.94,
+    "name": {
+      "zh-TW": "烏蒂拉島後水道珊瑚礁",
+      "en": "Utila Reef, Back Channel"
+    },
+    "animals": {
+      "zh-TW": "珊瑚礁魚類",
+      "en": "Reef fish"
+    },
+    "youtube": {
+      "videoId": "nmjlQlYygB4",
+      "channelId": "UCSyg9cb3Iq-NtlbxqNB9wGw"
+    },
+    "source": "Utopia Village × explore.org"
+  },
+  {
+    "id": "utila-sandy-channel",
+    "country": "HN",
+    "lat": 16.073,
+    "lng": -86.945,
+    "name": {
+      "zh-TW": "烏蒂拉島沙質水道",
+      "en": "Utila Reef, Sandy Channel"
+    },
+    "animals": {
+      "zh-TW": "魟魚、珊瑚礁魚類",
+      "en": "Rays, reef fish"
+    },
+    "youtube": {
+      "videoId": "jzx_n25g3kA",
+      "channelId": "UCSyg9cb3Iq-NtlbxqNB9wGw"
+    },
+    "source": "Utopia Village × explore.org"
+  },
+  {
+    "id": "utila-front-of-dock",
+    "country": "HN",
+    "lat": 16.068,
+    "lng": -86.952,
+    "name": {
+      "zh-TW": "烏蒂拉島碼頭前珊瑚礁",
+      "en": "Utila Reef, Front of Dock"
+    },
+    "animals": {
+      "zh-TW": "珊瑚礁魚類",
+      "en": "Reef fish"
+    },
+    "youtube": {
+      "videoId": "Kf-x20Yq0_A",
+      "channelId": "UCSyg9cb3Iq-NtlbxqNB9wGw"
+    },
+    "source": "Utopia Village × explore.org"
+  },
+  {
+    "id": "utila-back-of-dock",
+    "country": "HN",
+    "lat": 16.067,
+    "lng": -86.948,
+    "name": {
+      "zh-TW": "烏蒂拉島碼頭後珊瑚礁",
+      "en": "Utila Reef, Back of Dock"
+    },
+    "animals": {
+      "zh-TW": "珊瑚礁魚類",
+      "en": "Reef fish"
+    },
+    "youtube": {
+      "videoId": "Lv9t0hZTvz4",
+      "channelId": "UCSyg9cb3Iq-NtlbxqNB9wGw"
+    },
+    "source": "Utopia Village × explore.org"
+  },
+  {
+    "id": "utila-top-of-wall",
+    "country": "HN",
+    "lat": 16.071,
+    "lng": -86.955,
+    "name": {
+      "zh-TW": "烏蒂拉島礁牆頂",
+      "en": "Utila Reef, Top of Wall"
+    },
+    "animals": {
+      "zh-TW": "珊瑚礁魚類、海龜",
+      "en": "Reef fish, sea turtles"
+    },
+    "youtube": {
+      "videoId": "1zcIUk66HX4",
+      "channelId": "UCSyg9cb3Iq-NtlbxqNB9wGw"
+    },
+    "source": "Utopia Village × explore.org"
+  },
+  {
+    "id": "catalina-wrigley-reserve",
+    "country": "US",
+    "lat": 33.445,
+    "lng": -118.485,
+    "name": {
+      "zh-TW": "卡塔利娜島威格利海洋保護區（加州）",
+      "en": "USC Wrigley Catalina Marine Reserve (California)"
+    },
+    "animals": {
+      "zh-TW": "加州鯛、海藻林魚類",
+      "en": "Garibaldi, kelp forest fish"
+    },
+    "youtube": {
+      "videoId": "JH_NzhSsqis",
+      "channelId": "UCSyg9cb3Iq-NtlbxqNB9wGw"
+    },
+    "source": "explore.org × USC"
+  },
+  {
+    "id": "aquarium-pacific-reef",
+    "country": "US",
+    "lat": 33.762,
+    "lng": -118.197,
+    "name": {
+      "zh-TW": "太平洋水族館熱帶珊瑚礁（長灘）",
+      "en": "Aquarium of the Pacific Tropical Reef (Long Beach)"
+    },
+    "animals": {
+      "zh-TW": "珊瑚礁魚類、鯊魚、魟魚",
+      "en": "Reef fish, sharks, rays"
+    },
+    "youtube": {
+      "videoId": "DHUnz4dyb54",
+      "channelId": "UC-2KSeUU5SMCX6XLRD-AEvw"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "turpentine-jasmine",
+    "country": "US",
+    "lat": 36.31,
+    "lng": -93.76,
+    "name": {
+      "zh-TW": "松節油溪老虎 Jasmine（阿肯色）",
+      "en": "Jasmine the Tiger, Turpentine Creek (Arkansas)"
+    },
+    "animals": {
+      "zh-TW": "老虎",
+      "en": "Tigers"
+    },
+    "youtube": {
+      "videoId": "dXKCmOEq3ns",
+      "channelId": "UC6B91hbZkdiDjWdu00QCcew"
+    },
+    "source": "explore.org × Turpentine Creek"
+  },
+  {
+    "id": "turpentine-max",
+    "country": "US",
+    "lat": 36.312,
+    "lng": -93.762,
+    "name": {
+      "zh-TW": "松節油溪老虎 Max（阿肯色）",
+      "en": "Max the Tiger, Turpentine Creek (Arkansas)"
+    },
+    "animals": {
+      "zh-TW": "老虎",
+      "en": "Tigers"
+    },
+    "youtube": {
+      "videoId": "PcAOecvAh1U",
+      "channelId": "UC6B91hbZkdiDjWdu00QCcew"
+    },
+    "source": "explore.org × Turpentine Creek"
+  },
+  {
+    "id": "turpentine-dutchess",
+    "country": "US",
+    "lat": 36.308,
+    "lng": -93.758,
+    "name": {
+      "zh-TW": "松節油溪老虎 Dutchess（阿肯色）",
+      "en": "Dutchess the Tiger, Turpentine Creek (Arkansas)"
+    },
+    "animals": {
+      "zh-TW": "老虎",
+      "en": "Tigers"
+    },
+    "youtube": {
+      "videoId": "5vvWqjygRtI",
+      "channelId": "UC6B91hbZkdiDjWdu00QCcew"
+    },
+    "source": "explore.org × Turpentine Creek"
+  },
+  {
+    "id": "turpentine-siblings",
+    "country": "US",
+    "lat": 36.314,
+    "lng": -93.757,
+    "name": {
+      "zh-TW": "松節油溪老虎三兄妹（阿肯色）",
+      "en": "Doj, Jinx & Rosie, Turpentine Creek (Arkansas)"
+    },
+    "animals": {
+      "zh-TW": "老虎",
+      "en": "Tigers"
+    },
+    "youtube": {
+      "videoId": "eeMDlq_kQpQ",
+      "channelId": "UC6B91hbZkdiDjWdu00QCcew"
+    },
+    "source": "explore.org × Turpentine Creek"
+  },
+  {
+    "id": "gengda-panda",
+    "country": "CN",
+    "lat": 31.03,
+    "lng": 103.3,
+    "name": {
+      "zh-TW": "耿達大熊貓（四川臥龍）",
+      "en": "Giant Panda Cam, Gengda Valley (Sichuan)"
+    },
+    "animals": {
+      "zh-TW": "大熊貓",
+      "en": "Giant pandas"
+    },
+    "youtube": {
+      "videoId": "BsZEOvS3qTM",
+      "channelId": "UCQI1rdPytw4jDAjwqXVSgfA"
+    },
+    "source": "explore.org"
+  },
+  {
+    "id": "chengdu-panda-base",
+    "country": "CN",
+    "lat": 30.733,
+    "lng": 104.146,
+    "name": {
+      "zh-TW": "成都大熊貓繁育研究基地",
+      "en": "Chengdu Panda Base"
+    },
+    "animals": {
+      "zh-TW": "大熊貓",
+      "en": "Giant pandas"
+    },
+    "youtube": {
+      "videoId": "SUXPnIEpbn4",
+      "channelId": "UCtEgLf0_j1vJLz0aNEdO2SQ"
+    },
+    "source": "iPanda 熊貓頻道"
+  },
+  {
+    "id": "hellgate-ospreys",
+    "country": "US",
+    "lat": 46.87,
+    "lng": -113.99,
+    "name": {
+      "zh-TW": "地獄門峽谷魚鷹巢（蒙大拿）",
+      "en": "Hellgate Ospreys (Montana)"
+    },
+    "animals": {
+      "zh-TW": "魚鷹",
+      "en": "Ospreys"
+    },
+    "youtube": {
+      "videoId": "J7HO0dkkomE",
+      "channelId": "UCZXZQxS3d6NpR-eH_gdDwYA"
+    },
+    "source": "Cornell Lab × University of Montana"
+  },
+  {
+    "id": "cornell-hawks",
+    "country": "US",
+    "lat": 42.45,
+    "lng": -76.48,
+    "name": {
+      "zh-TW": "康乃爾紅尾鵟巢（紐約綺色佳）",
+      "en": "Cornell Red-tailed Hawks (New York)"
+    },
+    "animals": {
+      "zh-TW": "紅尾鵟",
+      "en": "Red-tailed hawks"
+    },
+    "youtube": {
+      "videoId": "afsaYKQ3vac",
+      "channelId": "UCZXZQxS3d6NpR-eH_gdDwYA"
+    },
+    "source": "Cornell Lab"
+  },
+  {
+    "id": "cornell-feederwatch",
+    "country": "US",
+    "lat": 42.48,
+    "lng": -76.45,
+    "name": {
+      "zh-TW": "康乃爾吸汁啄木鳥林餵食台（紐約）",
+      "en": "Cornell FeederWatch, Sapsucker Woods (New York)"
+    },
+    "animals": {
+      "zh-TW": "山雀、啄木鳥、北美紅雀",
+      "en": "Chickadees, woodpeckers, cardinals"
+    },
+    "youtube": {
+      "videoId": "x10vL6_47Dw",
+      "channelId": "UCZXZQxS3d6NpR-eH_gdDwYA"
+    },
+    "source": "Cornell Lab"
+  },
+  {
+    "id": "israel-barn-owl-cam-1",
+    "country": "IL",
+    "lat": 32.62,
+    "lng": 35.3,
+    "name": {
+      "zh-TW": "倉鴞與鴿子巢箱 1 號（以色列）",
+      "en": "Barn Owl & Pigeon Cam 1 (Israel)"
+    },
+    "animals": {
+      "zh-TW": "倉鴞、野鴿",
+      "en": "Barn owls, pigeons"
+    },
+    "youtube": {
+      "videoId": "FefBhyyUo60",
+      "channelId": "UCzbydNAcB7jeJGssRFb_dCA"
+    },
+    "source": "Charter Group of Wildlife Ecology"
+  },
+  {
+    "id": "israel-barn-owl-cam-2",
+    "country": "IL",
+    "lat": 32.58,
+    "lng": 35.12,
+    "name": {
+      "zh-TW": "倉鴞與鴿子巢箱 2 號（以色列）",
+      "en": "Barn Owl & Pigeon Cam 2 (Israel)"
+    },
+    "animals": {
+      "zh-TW": "倉鴞、野鴿",
+      "en": "Barn owls, pigeons"
+    },
+    "youtube": {
+      "videoId": "u_4FJ4M7gGE",
+      "channelId": "UCzbydNAcB7jeJGssRFb_dCA"
+    },
+    "source": "Charter Group of Wildlife Ecology"
+  },
+  {
+    "id": "israel-kestrel-cam-4",
+    "country": "IL",
+    "lat": 32.45,
+    "lng": 35,
+    "name": {
+      "zh-TW": "紅隼與倉鴞巢箱 4 號（以色列）",
+      "en": "Kestrel, Barn Owl & Myna Cam 4 (Israel)"
+    },
+    "animals": {
+      "zh-TW": "紅隼、倉鴞、八哥",
+      "en": "Kestrels, barn owls, mynas"
+    },
+    "youtube": {
+      "videoId": "EEUkkioplc4",
+      "channelId": "UCzbydNAcB7jeJGssRFb_dCA"
+    },
+    "source": "Charter Group of Wildlife Ecology"
+  },
+  {
+    "id": "israel-kestrel-gaia",
+    "country": "IL",
+    "lat": 32.7,
+    "lng": 35.2,
+    "name": {
+      "zh-TW": "紅隼巢箱（GAIA 計畫，以色列）",
+      "en": "Common Kestrel Cam, GAIA Project (Israel)"
+    },
+    "animals": {
+      "zh-TW": "紅隼、野鴿",
+      "en": "Common kestrels, pigeons"
+    },
+    "youtube": {
+      "videoId": "zXzxcGi9KY4",
+      "channelId": "UCzbydNAcB7jeJGssRFb_dCA"
+    },
+    "source": "Charter Group of Wildlife Ecology"
+  },
+  {
+    "id": "israel-little-owl",
+    "country": "IL",
+    "lat": 32.2,
+    "lng": 34.95,
+    "name": {
+      "zh-TW": "寒鴉與縱紋腹小鴞巢箱（以色列）",
+      "en": "Jackdaw & Little Owl Cam (Israel)"
+    },
+    "animals": {
+      "zh-TW": "寒鴉、縱紋腹小鴞",
+      "en": "Jackdaws, little owls"
+    },
+    "youtube": {
+      "videoId": "lem74i_cJw4",
+      "channelId": "UCzbydNAcB7jeJGssRFb_dCA"
+    },
+    "source": "Charter Group of Wildlife Ecology"
+  },
+  {
+    "id": "florida-barn-owl-1",
+    "country": "US",
+    "lat": 29.64,
+    "lng": -82.35,
+    "name": {
+      "zh-TW": "佛羅里達大學倉鴞巢箱 1 號",
+      "en": "University of Florida Barn Owl Cam 1"
+    },
+    "animals": {
+      "zh-TW": "倉鴞",
+      "en": "American barn owls"
+    },
+    "youtube": {
+      "videoId": "RbPzFQiZ-Sc",
+      "channelId": "UCzbydNAcB7jeJGssRFb_dCA"
+    },
+    "source": "Charter Group × University of Florida"
+  },
+  {
+    "id": "florida-barn-owl-2",
+    "country": "US",
+    "lat": 29.645,
+    "lng": -82.34,
+    "name": {
+      "zh-TW": "佛羅里達大學倉鴞巢箱 2 號",
+      "en": "University of Florida Barn Owl Cam 2"
+    },
+    "animals": {
+      "zh-TW": "倉鴞",
+      "en": "American barn owls"
+    },
+    "youtube": {
+      "videoId": "6f-D2AjeEi0",
+      "channelId": "UCzbydNAcB7jeJGssRFb_dCA"
+    },
+    "source": "Charter Group × University of Florida"
+  },
+  {
+    "id": "mba-sea-otters",
+    "country": "US",
+    "lat": 36.618,
+    "lng": -121.902,
+    "name": {
+      "zh-TW": "蒙特雷灣水族館海獺",
+      "en": "Monterey Bay Aquarium Sea Otters"
+    },
+    "animals": {
+      "zh-TW": "海獺",
+      "en": "Sea otters"
+    },
+    "youtube": {
+      "videoId": "abbR-Ttd-cA",
+      "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ"
+    },
+    "source": "Monterey Bay Aquarium"
+  },
+  {
+    "id": "mba-kelp-forest",
+    "country": "US",
+    "lat": 36.6185,
+    "lng": -121.9015,
+    "name": {
+      "zh-TW": "蒙特雷灣水族館海藻林",
+      "en": "Monterey Bay Aquarium Kelp Forest"
+    },
+    "animals": {
+      "zh-TW": "海藻林魚類、豹紋鯊",
+      "en": "Kelp forest fish, leopard sharks"
+    },
+    "youtube": {
+      "videoId": "w3LjpFhySTg",
+      "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ"
+    },
+    "source": "Monterey Bay Aquarium"
+  },
+  {
+    "id": "mba-open-sea",
+    "country": "US",
+    "lat": 36.6175,
+    "lng": -121.9025,
+    "name": {
+      "zh-TW": "蒙特雷灣水族館開放大洋",
+      "en": "Monterey Bay Aquarium Open Sea"
+    },
+    "animals": {
+      "zh-TW": "鮪魚、翻車魚、海龜",
+      "en": "Tuna, sunfish, sea turtles"
+    },
+    "youtube": {
+      "videoId": "n_GpVsz4nHU",
+      "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ"
+    },
+    "source": "Monterey Bay Aquarium"
+  },
+  {
+    "id": "mba-sharks",
+    "country": "US",
+    "lat": 36.619,
+    "lng": -121.9005,
+    "name": {
+      "zh-TW": "蒙特雷灣水族館鯊魚",
+      "en": "Monterey Bay Aquarium Shark Cam"
+    },
+    "animals": {
+      "zh-TW": "七鰓鯊、鯊魚、魟魚",
+      "en": "Sevengill sharks, rays"
+    },
+    "youtube": {
+      "videoId": "tEtg5Kg3voQ",
+      "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ"
+    },
+    "source": "Monterey Bay Aquarium"
+  },
+  {
+    "id": "mba-jellies",
+    "country": "US",
+    "lat": 36.6178,
+    "lng": -121.9008,
+    "name": {
+      "zh-TW": "蒙特雷灣水族館水母",
+      "en": "Monterey Bay Aquarium Jelly Cam"
+    },
+    "animals": {
+      "zh-TW": "太平洋海刺水母",
+      "en": "Sea nettles"
+    },
+    "youtube": {
+      "videoId": "eQ_foBERmzA",
+      "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ"
+    },
+    "source": "Monterey Bay Aquarium"
+  },
+  {
+    "id": "mba-moon-jellies",
+    "country": "US",
+    "lat": 36.6182,
+    "lng": -121.903,
+    "name": {
+      "zh-TW": "蒙特雷灣水族館海月水母",
+      "en": "Monterey Bay Aquarium Moon Jellies"
+    },
+    "animals": {
+      "zh-TW": "海月水母",
+      "en": "Moon jellies"
+    },
+    "youtube": {
+      "videoId": "zL68biE6wAs",
+      "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ"
+    },
+    "source": "Monterey Bay Aquarium"
+  },
+  {
+    "id": "mba-spider-crabs",
+    "country": "US",
+    "lat": 36.6172,
+    "lng": -121.9012,
+    "name": {
+      "zh-TW": "蒙特雷灣水族館甘氏巨螯蟹",
+      "en": "Monterey Bay Aquarium Spider Crabs"
+    },
+    "animals": {
+      "zh-TW": "甘氏巨螯蟹",
+      "en": "Japanese spider crabs"
+    },
+    "youtube": {
+      "videoId": "dzmJXWmA2EM",
+      "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ"
+    },
+    "source": "Monterey Bay Aquarium"
+  },
+  {
+    "id": "mba-aviary",
+    "country": "US",
+    "lat": 36.6188,
+    "lng": -121.9022,
+    "name": {
+      "zh-TW": "蒙特雷灣水族館海岸鳥園",
+      "en": "Monterey Bay Aquarium Aviary"
+    },
+    "animals": {
+      "zh-TW": "濱鳥",
+      "en": "Shorebirds"
+    },
+    "youtube": {
+      "videoId": "AWJi0LgyA28",
+      "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ"
+    },
+    "source": "Monterey Bay Aquarium"
+  },
+  {
+    "id": "mba-monterey-bay",
+    "country": "US",
+    "lat": 36.62,
+    "lng": -121.9,
+    "name": {
+      "zh-TW": "蒙特雷灣海面",
+      "en": "Monterey Bay Cam"
+    },
+    "animals": {
+      "zh-TW": "海獺、海獅、海鳥、鯨",
+      "en": "Sea otters, sea lions, seabirds, whales"
+    },
+    "youtube": {
+      "videoId": "fVa6-zCBR7A",
+      "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ"
+    },
+    "source": "Monterey Bay Aquarium"
+  },
+  {
+    "id": "vancouver-sea-otters",
+    "country": "CA",
+    "lat": 49.3,
+    "lng": -123.131,
+    "name": {
+      "zh-TW": "溫哥華水族館海獺",
+      "en": "Vancouver Aquarium Sea Otters"
+    },
+    "animals": {
+      "zh-TW": "海獺",
+      "en": "Sea otters"
+    },
+    "youtube": {
+      "videoId": "9mg9PoFEX2U",
+      "channelId": "UCbzl-qtfTKY9QNgtnqmuyBw"
+    },
+    "source": "Vancouver Aquarium"
+  },
+  {
+    "id": "vancouver-sea-otters-2",
+    "country": "CA",
+    "lat": 49.301,
+    "lng": -123.13,
+    "name": {
+      "zh-TW": "溫哥華水族館海獺 2 號",
+      "en": "Vancouver Aquarium Sea Otters Cam 2"
+    },
+    "animals": {
+      "zh-TW": "海獺",
+      "en": "Sea otters"
+    },
+    "youtube": {
+      "videoId": "_KXHUb0wFRE",
+      "channelId": "UCbzl-qtfTKY9QNgtnqmuyBw"
+    },
+    "source": "Vancouver Aquarium"
+  },
+  {
+    "id": "seattle-aquarium-otters",
+    "country": "US",
+    "lat": 47.607,
+    "lng": -122.343,
+    "name": {
+      "zh-TW": "西雅圖水族館海獺與海狗",
+      "en": "Seattle Aquarium Sea Otters & Fur Seals"
+    },
+    "animals": {
+      "zh-TW": "海獺、北方海狗",
+      "en": "Sea otters, northern fur seals"
+    },
+    "youtube": {
+      "videoId": "NqOmHpwMUxs",
+      "channelId": "UCl-QNzkm3zAmoCqedCL1EPQ"
+    },
+    "source": "Seattle Aquarium"
+  },
+  {
+    "id": "kc-zoo-polar-bears",
+    "country": "US",
+    "lat": 39.007,
+    "lng": -94.53,
+    "name": {
+      "zh-TW": "堪薩斯城動物園北極熊",
+      "en": "Kansas City Zoo Polar Bears"
+    },
+    "animals": {
+      "zh-TW": "北極熊",
+      "en": "Polar bears"
+    },
+    "youtube": {
+      "videoId": "BSUnBPvX9K4",
+      "channelId": "UC_pPFW2jn1pUT1O5D1m3brg"
+    },
+    "source": "Kansas City Zoo & Aquarium"
+  },
+  {
+    "id": "cincinnati-giraffes",
+    "country": "US",
+    "lat": 39.145,
+    "lng": -84.508,
+    "name": {
+      "zh-TW": "辛辛那提動物園長頸鹿（戶外）",
+      "en": "Cincinnati Zoo Giraffes (Outdoor)"
+    },
+    "animals": {
+      "zh-TW": "長頸鹿",
+      "en": "Giraffes"
+    },
+    "youtube": {
+      "videoId": "Zi9fTj0fmUw",
+      "channelId": "UCE3VoxyYmyQCReOXk2ogsVg"
+    },
+    "source": "Cincinnati Zoo"
+  },
+  {
+    "id": "cincinnati-giraffes-indoor",
+    "country": "US",
+    "lat": 39.146,
+    "lng": -84.507,
+    "name": {
+      "zh-TW": "辛辛那提動物園長頸鹿（室內）",
+      "en": "Cincinnati Zoo Giraffes (Indoor)"
+    },
+    "animals": {
+      "zh-TW": "長頸鹿",
+      "en": "Giraffes"
+    },
+    "youtube": {
+      "videoId": "Hh4XNA0Ea9A",
+      "channelId": "UCE3VoxyYmyQCReOXk2ogsVg"
+    },
+    "source": "Cincinnati Zoo"
+  },
+  {
+    "id": "orange-peregrines",
+    "country": "AU",
+    "lat": -33.27,
+    "lng": 149.1,
+    "name": {
+      "zh-TW": "查爾斯史都華大學遊隼巢（新南威爾斯）",
+      "en": "Charles Sturt University Peregrines, Orange (NSW)"
+    },
+    "animals": {
+      "zh-TW": "遊隼",
+      "en": "Peregrine falcons"
+    },
+    "youtube": {
+      "videoId": "gnF7_gRHHMQ",
+      "channelId": "UCNMulUCdUibAMPnaR1e0kEw"
+    },
+    "source": "FalconCam Project"
+  },
+  {
+    "id": "redding-eagles",
+    "country": "US",
+    "lat": 40.59,
+    "lng": -122.39,
+    "name": {
+      "zh-TW": "雷丁白頭海鵰巢（加州）",
+      "en": "Redding Eagles (California)"
+    },
+    "animals": {
+      "zh-TW": "白頭海鵰",
+      "en": "Bald eagles"
+    },
+    "youtube": {
+      "videoId": "2WJReCicMiI",
+      "channelId": "UCwAQxsF3Vgf6Vbrfen-Sm7A"
+    },
+    "source": "Friends of the Redding Eagles"
+  },
+  {
+    "id": "swfl-eagles",
+    "country": "US",
+    "lat": 26.73,
+    "lng": -81.87,
+    "name": {
+      "zh-TW": "佛州西南白頭海鵰巢",
+      "en": "Southwest Florida Eagle Cam"
+    },
+    "animals": {
+      "zh-TW": "白頭海鵰",
+      "en": "Bald eagles"
+    },
+    "youtube": {
+      "videoId": "YGaF2La0A9o",
+      "channelId": "UC0aJpP4DgTL96qnQE5BA1Sw"
+    },
+    "source": "Southwest Florida Eagle Cam"
+  },
+  {
+    "id": "winter-park-eagles",
+    "country": "US",
+    "lat": 28.6,
+    "lng": -81.34,
+    "name": {
+      "zh-TW": "溫特帕克白頭海鵰巢（佛羅里達）",
+      "en": "Winter Park Eagles (Florida)"
+    },
+    "animals": {
+      "zh-TW": "白頭海鵰",
+      "en": "Bald eagles"
+    },
+    "youtube": {
+      "videoId": "pe4xqyzhrK8",
+      "channelId": "UC51tfMdZhBpyEUP_uWOC-ZA"
+    },
+    "source": "Winter Park Eagle Cam"
+  },
+  {
+    "id": "miami-dade-eagles",
+    "country": "US",
+    "lat": 25.6,
+    "lng": -80.42,
+    "name": {
+      "zh-TW": "邁阿密戴德白頭海鵰巢（佛羅里達）",
+      "en": "Miami-Dade Eagle Nest (Florida)"
+    },
+    "animals": {
+      "zh-TW": "白頭海鵰",
+      "en": "Bald eagles"
+    },
+    "youtube": {
+      "videoId": "LUmMBZ4kiMQ",
+      "channelId": "UCtMr9ZgraacKwDyBhA_FbqQ"
+    },
+    "source": "Wildlife Rescue of Dade County"
+  },
+  {
+    "id": "traverse-city-eagles",
+    "country": "US",
+    "lat": 44.76,
+    "lng": -85.62,
+    "name": {
+      "zh-TW": "特拉弗斯城白頭海鵰巢（密西根）",
+      "en": "Traverse City Bald Eagles (Michigan)"
+    },
+    "animals": {
+      "zh-TW": "白頭海鵰",
+      "en": "Bald eagles"
+    },
+    "youtube": {
+      "videoId": "kVIfqMTzkfI",
+      "channelId": "UCob_chLKvtrcg8KE-KpQiig"
+    },
+    "source": "Great Lakes Bald Eagle Cam"
+  },
+  {
+    "id": "john-bunker-sands-eagles",
+    "country": "US",
+    "lat": 32.59,
+    "lng": -96.47,
+    "name": {
+      "zh-TW": "約翰邦克桑茲濕地白頭海鵰（德州）",
+      "en": "John Bunker Sands Wetland Eagles (Texas)"
+    },
+    "animals": {
+      "zh-TW": "白頭海鵰",
+      "en": "Bald eagles"
+    },
+    "youtube": {
+      "videoId": "JfPN4kwPgGM",
+      "channelId": "UCs2L76H8lN82uA0tsihLy9Q"
+    },
+    "source": "John Bunker Sands Wetland Center"
+  },
+  {
+    "id": "ridgefield-barred-owls",
+    "country": "US",
+    "lat": 41.28,
+    "lng": -73.5,
+    "name": {
+      "zh-TW": "里奇菲爾德橫斑林鴞巢箱（康乃狄克）",
+      "en": "Ridgefield Barred Owls (Connecticut)"
+    },
+    "animals": {
+      "zh-TW": "橫斑林鴞",
+      "en": "Barred owls"
+    },
+    "youtube": {
+      "videoId": "UeJhV8sAP_Y",
+      "channelId": "UC3_NlXVbEHW_QOTE46sN2jA"
+    },
+    "source": "Ridgefield Owls"
+  },
+  {
+    "id": "bat-world-sanctuary",
+    "country": "US",
+    "lat": 32.81,
+    "lng": -98.11,
+    "name": {
+      "zh-TW": "蝙蝠世界保護區（德州）",
+      "en": "Bat World Sanctuary (Texas)"
+    },
+    "animals": {
+      "zh-TW": "果蝠",
+      "en": "Fruit bats"
+    },
+    "youtube": {
+      "videoId": "vFpjuI4oqac",
+      "channelId": "UCiZ6C7QdhB5tbArknP8scag"
+    },
+    "source": "Bat World Sanctuary"
+  },
+  {
+    "id": "hokkaido-squirrel-feeder",
+    "country": "JP",
+    "lat": 43.06,
+    "lng": 141.35,
+    "name": {
+      "zh-TW": "北海道蝦夷松鼠與野鳥餵食台",
+      "en": "Hokkaido Squirrel & Bird Feeder"
+    },
+    "animals": {
+      "zh-TW": "蝦夷松鼠、山雀、麻雀",
+      "en": "Ezo red squirrels, tits, sparrows"
+    },
+    "youtube": {
+      "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ"
+    },
+    "source": "野鳥の巣箱カメラ"
+  },
+  {
+    "id": "north-devon-garden",
+    "country": "GB",
+    "lat": 51.08,
+    "lng": -4.06,
+    "name": {
+      "zh-TW": "北德文花園餵食台與刺蝟",
+      "en": "North Devon Garden Birds & Hedgehogs"
+    },
+    "animals": {
+      "zh-TW": "花園鳥類、刺蝟",
+      "en": "Garden birds, hedgehogs"
+    },
+    "youtube": {
+      "videoId": "BH1c4T8wVtQ",
+      "channelId": "UCJG9CJzfVSnnZ5_RYb_9CZQ"
+    },
+    "source": "North Devon Birder"
+  },
+  {
+    "id": "cornwall-woodland-feeder",
+    "country": "GB",
+    "lat": 50.4,
+    "lng": -4.9,
+    "name": {
+      "zh-TW": "康瓦爾橡樹林餵食台",
+      "en": "Cornwall Oak Woodland Feeder"
+    },
+    "animals": {
+      "zh-TW": "啄木鳥、山雀、烏鶇",
+      "en": "Woodpeckers, tits, blackbirds"
+    },
+    "youtube": {
+      "videoId": "vQk_NziCq5A",
+      "channelId": "UC4uK_QRR1OCJH5yYxiz9CCA"
+    },
+    "source": "Cornish Wildlife Watch"
+  },
+  {
+    "id": "oxford-garden",
+    "country": "GB",
+    "lat": 51.75,
+    "lng": -1.26,
+    "name": {
+      "zh-TW": "牛津花園野生動物",
+      "en": "Oxford Garden Wildlife"
+    },
+    "animals": {
+      "zh-TW": "花園鳥類、刺蝟、松鼠",
+      "en": "Garden birds, hedgehogs, squirrels"
+    },
+    "youtube": {
+      "videoId": "rfm0u5CxRyU",
+      "channelId": "UCq2IeUZsZIOTM8QjqMezPhg"
+    },
+    "source": "Oxford Wildlife Cam"
+  },
+  {
+    "id": "hamilton-feeder",
+    "country": "CA",
+    "lat": 43.26,
+    "lng": -79.87,
+    "name": {
+      "zh-TW": "漢密爾頓餵食台（安大略）",
+      "en": "Hamilton Bird Feeder (Ontario)"
+    },
+    "animals": {
+      "zh-TW": "冠藍鴉、北美紅雀、山雀",
+      "en": "Blue jays, cardinals, chickadees"
+    },
+    "youtube": {
+      "videoId": "z1-cBMc1FFU",
+      "channelId": "UCe-0f6vKmLAMRgvj9nqQCdw"
+    },
+    "source": "Hamilton Pecking Order"
+  },
+  {
+    "id": "slovenia-orchard-feeder",
+    "country": "SI",
+    "lat": 46.05,
+    "lng": 14.9,
+    "name": {
+      "zh-TW": "斯洛維尼亞果園餵食台",
+      "en": "Slovenia Orchard Bird Feeder"
+    },
+    "animals": {
+      "zh-TW": "山雀、燕雀、歐洲鳥類",
+      "en": "Tits, finches, European birds"
+    },
+    "youtube": {
+      "channelId": "UCK3s1knJHPvltGJX7KWZrbg"
+    },
+    "source": "Luka&Animals"
+  },
+  {
+    "id": "norway-feeder",
+    "country": "NO",
+    "lat": 60.2,
+    "lng": 10.8,
+    "name": {
+      "zh-TW": "挪威餵食台",
+      "en": "Norway Bird Feeder"
+    },
+    "animals": {
+      "zh-TW": "山雀、燕雀、松鼠",
+      "en": "Tits, finches, squirrels"
+    },
+    "youtube": {
+      "channelId": "UCe-Yiq2wTFd2oreza9Perjw"
+    },
+    "source": "Nutty Feeder Cam"
+  },
+  {
+    "id": "italy-feeder",
+    "country": "IT",
+    "lat": 45.4,
+    "lng": 9.9,
+    "name": {
+      "zh-TW": "義大利餵食台",
+      "en": "Italy Bird Feeder"
+    },
+    "animals": {
+      "zh-TW": "山雀、知更鳥、歐洲鳥類",
+      "en": "Tits, robins, European birds"
+    },
+    "youtube": {
+      "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw"
+    },
+    "source": "Garden Friends"
   }
 ]
