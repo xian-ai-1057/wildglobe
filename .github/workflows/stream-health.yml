@@ -1,0 +1,91 @@
+name: Stream health
+
+# Live stream IDs drift when broadcasters restart their streams. Check every stream daily and keep
+# one GitHub issue open (labelled stream-health) while any are down; close it once all recover.
+on:
+  schedule:
+    - cron: '17 3 * * *' # daily, 03:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: stream-health
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+
+      # The checker only uses Node built-ins, so no npm install is needed.
+      - name: Check streams
+        id: check
+        run: |
+          set +e
+          node scripts/check-streams.mjs > report.txt 2>&1
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+          cat report.txt
+          {
+            echo '```'
+            cat report.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Open, update or close the stream-health issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CODE: ${{ steps.check.outputs.code }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          set -euo pipefail
+          label=stream-health
+          gh label create "$label" --color D93F0B --description "Automated live stream check" 2>/dev/null || true
+          issue=$(gh issue list --label "$label" --state open --json number --jq '.[0].number // empty')
+          summary=$(tail -n 1 report.txt)
+
+          case "$CODE" in
+            0)
+              if [ -n "$issue" ]; then
+                gh issue close "$issue" --comment "All streams are live again ($summary). [Run]($RUN_URL)"
+              fi
+              ;;
+            1)
+              down=$(grep -c '^❌' report.txt || true)
+              if [ "$down" -eq 1 ]; then title="Stream health: 1 stream down"; else title="Stream health: $down streams down"; fi
+              {
+                echo "The daily check found streams that are no longer live or embeddable. [Run]($RUN_URL)"
+                echo
+                echo "Fix each ❌ in \`src/data/streams.json\`: swap in one of the \`↳ live on channel\` video IDs, or remove the entry."
+                echo "⚠️ lines mean YouTube blocked the check from GitHub's servers; those streams may be fine."
+                echo
+                echo '```'
+                cat report.txt
+                echo '```'
+              } > body.md
+              if [ -n "$issue" ]; then
+                gh issue edit "$issue" --title "$title" --body-file body.md
+              else
+                gh issue create --title "$title" --label "$label" --body-file body.md
+              fi
+              ;;
+            2)
+              echo "::warning::YouTube blocked some checks from this runner, and none were confirmed down. Leaving the issue as is. ($summary)"
+              ;;
+            3)
+              echo "::error::Every check was blocked or failed to parse; YouTube may have changed its pages. ($summary)"
+              exit 1
+              ;;
+            *)
+              echo "::error::check-streams exited with unexpected code $CODE"
+              exit 1
+              ;;
+          esac
