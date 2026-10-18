@@ -3,7 +3,7 @@
 旋轉 3D 地球，點選國家，就能觀看當地正在直播的野生動物與自然頻道。
 Spin a 3D globe, tap a country, and watch live wildlife and nature streams from there.
 
-目前收錄 16 個國家、30 個 YouTube 直播（棕熊、非洲水坑、信天翁巢、黑面琵鷺、珊瑚礁…）。
+目前收錄 21 個國家、122 個 YouTube 直播（棕熊、北極熊、大熊貓、大猩猩、非洲水坑、海獺、水母、白頭海鵰、信天翁巢、黑面琵鷺、珊瑚礁…）。
 
 ## 功能 Features
 
