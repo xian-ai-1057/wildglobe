@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Node / Vite
+node_modules/
+*.tsbuildinfo
+.vite/
+.vercel/
+npm-debug.log*
+.DS_Store
+
+# Local Claude Code config
+.claude/
