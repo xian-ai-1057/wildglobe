@@ -1,0 +1,54 @@
+name: Update streams
+
+# Many cameras stream only part of the day or restart every few days, and each broadcast gets a new video ID.
+# Every 30 minutes, point each stream at its camera's current live video (or its latest recording while off air)
+# and commit src/data/streams.json when anything changed. Vercel redeploys on every push to main.
+on:
+  schedule:
+    - cron: '7,37 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-streams
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+
+      # The updater only uses Node built-ins, so no npm install is needed.
+      - name: Update stream videos and push
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          # If someone pushes to main meanwhile, start over from their commit rather than merging.
+          for attempt in 1 2 3; do
+            git fetch -q origin main
+            git reset -q --hard origin/main
+            node scripts/update-streams.mjs --summary changes.txt
+            if git diff --quiet -- src/data/streams.json; then
+              echo 'No changes.'
+              exit 0
+            fi
+            {
+              echo '```'
+              cat changes.txt
+              echo '```'
+            } >> "$GITHUB_STEP_SUMMARY"
+            git commit -q -m 'Update live stream videos' -m "$(cat changes.txt)" -- src/data/streams.json
+            if git push -q origin HEAD:main; then exit 0; fi
+            sleep 10
+          done
+          echo '::error::Could not push after 3 attempts'
+          exit 1

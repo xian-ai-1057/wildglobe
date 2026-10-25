@@ -20,7 +20,10 @@ export default function App() {
 
   const closePlayer = useCallback(() => setPlaying(null), []);
 
-  const playRandom = () => playStream(streams[Math.floor(Math.random() * streams.length)]);
+  const playRandom = () => {
+    const onAir = streams.filter((s) => s.status !== 'offline');
+    playStream(onAir[Math.floor(Math.random() * onAir.length)]);
+  };
 
   return (
     <>

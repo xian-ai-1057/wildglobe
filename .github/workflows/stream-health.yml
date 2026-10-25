@@ -64,7 +64,8 @@ jobs:
               {
                 echo "The daily check found streams that are no longer live or embeddable. [Run]($RUN_URL)"
                 echo
-                echo "Fix each ❌ in \`src/data/streams.json\`: swap in one of the \`↳ live on channel\` video IDs, or remove the entry."
+                echo "The Update streams workflow already follows cameras whose video ID changes; these are the ones it couldn't match."
+                echo "Fix each ❌ in \`src/data/streams.json\`: swap in one of the \`↳ live on channel\` video IDs, set \`youtube.match\` to text from the right camera's title, or remove the entry."
                 echo "⚠️ lines mean YouTube blocked the check from GitHub's servers; those streams may be fine."
                 echo
                 echo '```'
