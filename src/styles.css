@@ -323,6 +323,14 @@ p {
   letter-spacing: 0.04em;
 }
 
+.live-badge.replay {
+  background: #2563eb;
+}
+
+.live-badge.offline {
+  background: #475569;
+}
+
 .stream-info {
   display: flex;
   flex-direction: column;
@@ -393,6 +401,11 @@ p {
 .modal-footer p {
   font-size: 0.9rem;
   margin-top: 2px;
+}
+
+.modal-footer .status-note {
+  color: var(--gold);
+  font-size: 0.85rem;
 }
 
 .modal-actions {

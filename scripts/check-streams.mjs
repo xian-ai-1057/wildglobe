@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 // Checks every stream in src/data/streams.json: is it live right now, and can it be embedded?
+// A stream marked "replay" by update-streams.mjs passes if its recording plays instead.
 // For a stream that is down, lists the channel's current live videos so you can pick a replacement.
 //
 // How: each channel's /streams page tells us which of its videos are live, and YouTube's oEmbed endpoint
@@ -148,7 +149,7 @@ async function watchPageStatus(videoId) {
   return { state: 'ok', title };
 }
 
-async function checkStream({ youtube: { videoId, channelId } }) {
+async function checkStream({ youtube: { videoId, channelId }, status }) {
   let lives = null;
   try {
     lives = await channelLives(channelId);
@@ -166,7 +167,9 @@ async function checkStream({ youtube: { videoId, channelId } }) {
 
   const listedLive = lives?.some((l) => l.videoId === target);
   const live = listedLive ? { state: 'ok' } : await withRetry(() => watchPageStatus(target));
-  if (live.state !== 'ok') return { ...live, lives };
+  // update-streams.mjs points off-air cameras at their latest recording: that only has to be playable.
+  const playableReplay = status === 'replay' && live.state === 'down' && live.reason.startsWith('not live now');
+  if (live.state !== 'ok' && !playableReplay) return { ...live, lives };
 
   return { ...(await embedStatus(target)), lives };
 }

@@ -52,6 +52,7 @@ export default function PlayerModal({ stream, onClose }: Props) {
             <p className="muted">
               {stream.animals[lang]} · {t.source}: {stream.source}
             </p>
+            {stream.status && <p className="status-note">{t[`${stream.status}Note`]}</p>}
           </div>
           <div className="modal-actions">
             <a href={watchUrl(stream)} target="_blank" rel="noreferrer">

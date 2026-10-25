@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "juKUvigAGkc",
+      "videoId": "QTsfA2V8b5s",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -469,7 +469,7 @@
       "en": "Black-faced spoonbills, waterbirds"
     },
     "youtube": {
-      "videoId": "-b-yd3m_4WQ",
+      "videoId": "agWJwKi_ywY",
       "channelId": "UCPj-5Q1uep2A-t5Ret2g0FQ"
     },
     "source": "台灣黑面琵鷺保育學會"
@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "F2jeC-y3njc",
+      "videoId": "QyugVjHRxLs",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -526,7 +526,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "yVehpZSv0co",
+      "videoId": "-_1APeqtRqo",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -545,7 +545,7 @@
       "en": "Tits, woodpeckers, squirrels"
     },
     "youtube": {
-      "videoId": "QvUNJ3zM1sA",
+      "videoId": "bSuF-q8zTvg",
       "channelId": "UCpNkaYuxexaa1lKowyfnk2Q"
     },
     "source": "Frankenwälder Vogelhaus"
@@ -564,7 +564,7 @@
       "en": "Raccoons, deer, foxes"
     },
     "youtube": {
-      "videoId": "EYkvAwkWwn0",
+      "videoId": "M7KM34E6mcw",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
     "source": "Northwest Ontario Birds & Wildlife"
@@ -1971,7 +1971,8 @@
     },
     "youtube": {
       "videoId": "Zi9fTj0fmUw",
-      "channelId": "UCE3VoxyYmyQCReOXk2ogsVg"
+      "channelId": "UCE3VoxyYmyQCReOXk2ogsVg",
+      "match": "Outdoor"
     },
     "source": "Cincinnati Zoo"
   },
@@ -1989,8 +1990,9 @@
       "en": "Giraffes"
     },
     "youtube": {
-      "videoId": "Hh4XNA0Ea9A",
-      "channelId": "UCE3VoxyYmyQCReOXk2ogsVg"
+      "videoId": "2PYRm4vIwN0",
+      "channelId": "UCE3VoxyYmyQCReOXk2ogsVg",
+      "match": "Indoor"
     },
     "source": "Cincinnati Zoo"
   },
@@ -2027,7 +2029,7 @@
       "en": "Bald eagles"
     },
     "youtube": {
-      "videoId": "2WJReCicMiI",
+      "videoId": "-NKwig_bAtM",
       "channelId": "UCwAQxsF3Vgf6Vbrfen-Sm7A"
     },
     "source": "Friends of the Redding Eagles"
@@ -2084,7 +2086,7 @@
       "en": "Bald eagles"
     },
     "youtube": {
-      "videoId": "LUmMBZ4kiMQ",
+      "videoId": "IEUE6hwo_T8",
       "channelId": "UCtMr9ZgraacKwDyBhA_FbqQ"
     },
     "source": "Wildlife Rescue of Dade County"
@@ -2179,7 +2181,8 @@
       "en": "Ezo red squirrels, tits, sparrows"
     },
     "youtube": {
-      "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ"
+      "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ",
+      "videoId": "n8Oh4JbTRvM"
     },
     "source": "野鳥の巣箱カメラ"
   },
@@ -2197,7 +2200,7 @@
       "en": "Garden birds, hedgehogs"
     },
     "youtube": {
-      "videoId": "BH1c4T8wVtQ",
+      "videoId": "a7OtG8UbkLk",
       "channelId": "UCJG9CJzfVSnnZ5_RYb_9CZQ"
     },
     "source": "North Devon Birder"
@@ -2235,10 +2238,11 @@
       "en": "Garden birds, hedgehogs, squirrels"
     },
     "youtube": {
-      "videoId": "rfm0u5CxRyU",
+      "videoId": "BZfA6Hf07wg",
       "channelId": "UCq2IeUZsZIOTM8QjqMezPhg"
     },
-    "source": "Oxford Wildlife Cam"
+    "source": "Oxford Wildlife Cam",
+    "status": "replay"
   },
   {
     "id": "hamilton-feeder",
@@ -2254,10 +2258,11 @@
       "en": "Blue jays, cardinals, chickadees"
     },
     "youtube": {
-      "videoId": "z1-cBMc1FFU",
+      "videoId": "TlZsnEZPVfk",
       "channelId": "UCe-0f6vKmLAMRgvj9nqQCdw"
     },
-    "source": "Hamilton Pecking Order"
+    "source": "Hamilton Pecking Order",
+    "status": "replay"
   },
   {
     "id": "slovenia-orchard-feeder",
@@ -2273,9 +2278,11 @@
       "en": "Tits, finches, European birds"
     },
     "youtube": {
-      "channelId": "UCK3s1knJHPvltGJX7KWZrbg"
+      "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
+      "videoId": "2A9rbg0-rlw"
     },
-    "source": "Luka&Animals"
+    "source": "Luka&Animals",
+    "status": "replay"
   },
   {
     "id": "norway-feeder",
@@ -2291,9 +2298,11 @@
       "en": "Tits, finches, squirrels"
     },
     "youtube": {
-      "channelId": "UCe-Yiq2wTFd2oreza9Perjw"
+      "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
+      "videoId": "8BDIIEAjCu0"
     },
-    "source": "Nutty Feeder Cam"
+    "source": "Nutty Feeder Cam",
+    "status": "replay"
   },
   {
     "id": "italy-feeder",
@@ -2309,8 +2318,10 @@
       "en": "Tits, robins, European birds"
     },
     "youtube": {
-      "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw"
+      "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw",
+      "videoId": "GmvWalojbhU"
     },
-    "source": "Garden Friends"
+    "source": "Garden Friends",
+    "status": "replay"
   }
 ]

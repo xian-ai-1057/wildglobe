@@ -11,7 +11,9 @@ interface Props {
 }
 
 function thumbnailUrl(stream: Stream) {
-  return stream.youtube.videoId ? `https://i.ytimg.com/vi/${stream.youtube.videoId}/mqdefault_live.jpg` : null;
+  const { videoId } = stream.youtube;
+  if (!videoId) return null;
+  return `https://i.ytimg.com/vi/${videoId}/${stream.status ? 'mqdefault.jpg' : 'mqdefault_live.jpg'}`;
 }
 
 export default function CountryPanel({ country, onClose, onSelectStream }: Props) {
@@ -39,7 +41,7 @@ export default function CountryPanel({ country, onClose, onSelectStream }: Props
                 <button className="stream-card" onClick={() => onSelectStream(s)}>
                   <div className="thumb">
                     {thumb && <img src={thumb} alt="" loading="lazy" />}
-                    <span className="live-badge">● {t.live}</span>
+                    <span className={`live-badge ${s.status ?? ''}`}>{s.status ? t[s.status] : `● ${t.live}`}</span>
                   </div>
                   <div className="stream-info">
                     <strong>{s.name[lang]}</strong>

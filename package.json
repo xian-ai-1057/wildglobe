@@ -9,6 +9,7 @@
     "lint": "oxlint",
     "preview": "vite preview",
     "check-streams": "node scripts/check-streams.mjs",
+    "update-streams": "node scripts/update-streams.mjs",
     "format": "prettier --write \"src/**/*.{ts,tsx,css,json}\" \"scripts/*.mjs\""
   },
   "dependencies": {
