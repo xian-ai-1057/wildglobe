@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "QTsfA2V8b5s",
+      "videoId": "7wVGIdn01Jg",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "QyugVjHRxLs",
+      "videoId": "lkeYVa_J778",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -526,7 +526,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "-_1APeqtRqo",
+      "videoId": "ik8jOg7gViw",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -545,7 +545,7 @@
       "en": "Tits, woodpeckers, squirrels"
     },
     "youtube": {
-      "videoId": "bSuF-q8zTvg",
+      "videoId": "GysKesGDHOc",
       "channelId": "UCpNkaYuxexaa1lKowyfnk2Q"
     },
     "source": "Frankenwälder Vogelhaus"
@@ -567,7 +567,8 @@
       "videoId": "M7KM34E6mcw",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife"
+    "source": "Northwest Ontario Birds & Wildlife",
+    "status": "replay"
   },
   {
     "id": "brooks-falls-low",
@@ -2182,9 +2183,10 @@
     },
     "youtube": {
       "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ",
-      "videoId": "n8Oh4JbTRvM"
+      "videoId": "zE9chZuavmo"
     },
-    "source": "野鳥の巣箱カメラ"
+    "source": "野鳥の巣箱カメラ",
+    "status": "replay"
   },
   {
     "id": "north-devon-garden",
@@ -2238,11 +2240,10 @@
       "en": "Garden birds, hedgehogs, squirrels"
     },
     "youtube": {
-      "videoId": "BZfA6Hf07wg",
+      "videoId": "FhpKWfe9E7w",
       "channelId": "UCq2IeUZsZIOTM8QjqMezPhg"
     },
-    "source": "Oxford Wildlife Cam",
-    "status": "replay"
+    "source": "Oxford Wildlife Cam"
   },
   {
     "id": "hamilton-feeder",
@@ -2258,11 +2259,10 @@
       "en": "Blue jays, cardinals, chickadees"
     },
     "youtube": {
-      "videoId": "TlZsnEZPVfk",
+      "videoId": "SK2PLY4etys",
       "channelId": "UCe-0f6vKmLAMRgvj9nqQCdw"
     },
-    "source": "Hamilton Pecking Order",
-    "status": "replay"
+    "source": "Hamilton Pecking Order"
   },
   {
     "id": "slovenia-orchard-feeder",
@@ -2279,10 +2279,9 @@
     },
     "youtube": {
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
-      "videoId": "2A9rbg0-rlw"
+      "videoId": "o8ZrVWrQDYc"
     },
-    "source": "Luka&Animals",
-    "status": "replay"
+    "source": "Luka&Animals"
   },
   {
     "id": "norway-feeder",
@@ -2299,10 +2298,9 @@
     },
     "youtube": {
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
-      "videoId": "8BDIIEAjCu0"
+      "videoId": "AfImzuIBU9k"
     },
-    "source": "Nutty Feeder Cam",
-    "status": "replay"
+    "source": "Nutty Feeder Cam"
   },
   {
     "id": "italy-feeder",
@@ -2319,7 +2317,7 @@
     },
     "youtube": {
       "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw",
-      "videoId": "GmvWalojbhU"
+      "videoId": "Xzk4d-zzGe4"
     },
     "source": "Garden Friends",
     "status": "replay"
