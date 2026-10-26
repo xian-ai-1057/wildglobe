@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "B1RyhzfrbGU",
+      "videoId": "0LGzPauYEWE",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -508,7 +508,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "YVqKRYK0NGI",
+      "videoId": "C2sbEFgtusg",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -527,7 +527,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "nIK5xmC97uY",
+      "videoId": "kX8ftHIxSzY",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -546,7 +546,7 @@
       "en": "Tits, woodpeckers, squirrels"
     },
     "youtube": {
-      "videoId": "fxc_eMmbwGk",
+      "videoId": "vuZgjC6DN_I",
       "channelId": "UCpNkaYuxexaa1lKowyfnk2Q"
     },
     "source": "Frankenwälder Vogelhaus"
@@ -2088,10 +2088,11 @@
       "en": "Bald eagles"
     },
     "youtube": {
-      "videoId": "IEUE6hwo_T8",
+      "videoId": "ApDQVWaGNmY",
       "channelId": "UCtMr9ZgraacKwDyBhA_FbqQ"
     },
-    "source": "Wildlife Rescue of Dade County"
+    "source": "Wildlife Rescue of Dade County",
+    "status": "replay"
   },
   {
     "id": "traverse-city-eagles",
@@ -2241,7 +2242,7 @@
       "en": "Garden birds, hedgehogs, squirrels"
     },
     "youtube": {
-      "videoId": "FhpKWfe9E7w",
+      "videoId": "mGA90HH30BU",
       "channelId": "UCq2IeUZsZIOTM8QjqMezPhg"
     },
     "source": "Oxford Wildlife Cam"
@@ -2282,7 +2283,8 @@
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
       "videoId": "_Ig6TKBE_yU"
     },
-    "source": "Luka&Animals"
+    "source": "Luka&Animals",
+    "status": "replay"
   },
   {
     "id": "norway-feeder",
@@ -2301,7 +2303,8 @@
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
       "videoId": "UXd1lMFvq08"
     },
-    "source": "Nutty Feeder Cam"
+    "source": "Nutty Feeder Cam",
+    "status": "replay"
   },
   {
     "id": "italy-feeder",
@@ -2320,6 +2323,7 @@
       "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw",
       "videoId": "BGqjLzb9U4I"
     },
-    "source": "Garden Friends"
+    "source": "Garden Friends",
+    "status": "replay"
   }
 ]
