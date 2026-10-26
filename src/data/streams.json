@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "4V6SUqbDm-o",
+      "videoId": "8OF9UIKiahY",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -545,7 +545,7 @@
       "en": "Tits, woodpeckers, squirrels"
     },
     "youtube": {
-      "videoId": "GysKesGDHOc",
+      "videoId": "fxc_eMmbwGk",
       "channelId": "UCpNkaYuxexaa1lKowyfnk2Q"
     },
     "source": "Frankenwälder Vogelhaus"
@@ -2277,10 +2277,9 @@
     },
     "youtube": {
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
-      "videoId": "o8ZrVWrQDYc"
+      "videoId": "_Ig6TKBE_yU"
     },
-    "source": "Luka&Animals",
-    "status": "replay"
+    "source": "Luka&Animals"
   },
   {
     "id": "norway-feeder",
@@ -2317,9 +2316,8 @@
     },
     "youtube": {
       "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw",
-      "videoId": "eCRKCokApzU"
+      "videoId": "BGqjLzb9U4I"
     },
-    "source": "Garden Friends",
-    "status": "replay"
+    "source": "Garden Friends"
   }
 ]
