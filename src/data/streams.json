@@ -549,7 +549,8 @@
       "videoId": "vuZgjC6DN_I",
       "channelId": "UCpNkaYuxexaa1lKowyfnk2Q"
     },
-    "source": "Frankenwälder Vogelhaus"
+    "source": "Frankenwälder Vogelhaus",
+    "status": "offline"
   },
   {
     "id": "nw-ontario-night-cam",
@@ -2185,10 +2186,9 @@
     },
     "youtube": {
       "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ",
-      "videoId": "VrREfGn_EHg"
+      "videoId": "0bPkdTXu4d4"
     },
-    "source": "野鳥の巣箱カメラ",
-    "status": "replay"
+    "source": "野鳥の巣箱カメラ"
   },
   {
     "id": "north-devon-garden",
@@ -2261,7 +2261,7 @@
       "en": "Blue jays, cardinals, chickadees"
     },
     "youtube": {
-      "videoId": "SK2PLY4etys",
+      "videoId": "aMlpDksRMms",
       "channelId": "UCe-0f6vKmLAMRgvj9nqQCdw"
     },
     "source": "Hamilton Pecking Order"
