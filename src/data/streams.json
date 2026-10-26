@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "IDVezPqXbNY",
+      "videoId": "B1RyhzfrbGU",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -469,10 +469,11 @@
       "en": "Black-faced spoonbills, waterbirds"
     },
     "youtube": {
-      "videoId": "agWJwKi_ywY",
+      "videoId": "-b-yd3m_4WQ",
       "channelId": "UCPj-5Q1uep2A-t5Ret2g0FQ"
     },
-    "source": "台灣黑面琵鷺保育學會"
+    "source": "台灣黑面琵鷺保育學會",
+    "status": "replay"
   },
   {
     "id": "fuji-bird-bath",
@@ -507,7 +508,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "8OF9UIKiahY",
+      "videoId": "YVqKRYK0NGI",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -526,7 +527,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "KG1kdthyoC8",
+      "videoId": "nIK5xmC97uY",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -567,7 +568,8 @@
       "videoId": "YJ9-N5NFs7Y",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife"
+    "source": "Northwest Ontario Birds & Wildlife",
+    "status": "replay"
   },
   {
     "id": "brooks-falls-low",
@@ -2182,9 +2184,10 @@
     },
     "youtube": {
       "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ",
-      "videoId": "I6fpRlIocOc"
+      "videoId": "VrREfGn_EHg"
     },
-    "source": "野鳥の巣箱カメラ"
+    "source": "野鳥の巣箱カメラ",
+    "status": "replay"
   },
   {
     "id": "north-devon-garden",
@@ -2296,10 +2299,9 @@
     },
     "youtube": {
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
-      "videoId": "AfImzuIBU9k"
+      "videoId": "UXd1lMFvq08"
     },
-    "source": "Nutty Feeder Cam",
-    "status": "replay"
+    "source": "Nutty Feeder Cam"
   },
   {
     "id": "italy-feeder",
