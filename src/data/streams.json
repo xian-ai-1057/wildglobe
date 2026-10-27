@@ -568,7 +568,8 @@
       "videoId": "D5kt5wJbk9A",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife"
+    "source": "Northwest Ontario Birds & Wildlife",
+    "status": "replay"
   },
   {
     "id": "brooks-falls-low",
@@ -2318,7 +2319,7 @@
     },
     "youtube": {
       "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw",
-      "videoId": "PF3HyU-iWUk"
+      "videoId": "1H9H7Ieuj6I"
     },
     "source": "Garden Friends"
   }
