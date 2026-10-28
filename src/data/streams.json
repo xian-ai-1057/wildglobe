@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "15kEkooEG7U",
+      "videoId": "8U2ijsqKsaI",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -526,7 +526,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "Hj1qRtuDO6w",
+      "videoId": "-xvbW13wPJA",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -2184,9 +2184,10 @@
     },
     "youtube": {
       "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ",
-      "videoId": "MArVtDAI_6M"
+      "videoId": "Q9YasnHB6lo"
     },
-    "source": "野鳥の巣箱カメラ"
+    "source": "野鳥の巣箱カメラ",
+    "status": "replay"
   },
   {
     "id": "north-devon-garden",
@@ -2279,10 +2280,9 @@
     },
     "youtube": {
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
-      "videoId": "V4XxC5VOeD0"
+      "videoId": "gLKCf0GpKBM"
     },
-    "source": "Luka&Animals",
-    "status": "replay"
+    "source": "Luka&Animals"
   },
   {
     "id": "norway-feeder",
@@ -2299,10 +2299,9 @@
     },
     "youtube": {
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
-      "videoId": "4i7nMLxA8UI"
+      "videoId": "zVUQGcsdM5I"
     },
-    "source": "Nutty Feeder Cam",
-    "status": "replay"
+    "source": "Nutty Feeder Cam"
   },
   {
     "id": "italy-feeder",
@@ -2319,9 +2318,8 @@
     },
     "youtube": {
       "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw",
-      "videoId": "1H9H7Ieuj6I"
+      "videoId": "vbVEYSty424"
     },
-    "source": "Garden Friends",
-    "status": "replay"
+    "source": "Garden Friends"
   }
 ]
