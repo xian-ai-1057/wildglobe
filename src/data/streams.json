@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "oGoWzEd9wvE",
+      "videoId": "NXglwDKOUSw",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -568,7 +568,8 @@
       "videoId": "RK45qe4uLCA",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife"
+    "source": "Northwest Ontario Birds & Wildlife",
+    "status": "replay"
   },
   {
     "id": "brooks-falls-low",
@@ -2282,7 +2283,8 @@
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
       "videoId": "gLKCf0GpKBM"
     },
-    "source": "Luka&Animals"
+    "source": "Luka&Animals",
+    "status": "replay"
   },
   {
     "id": "norway-feeder",
@@ -2301,7 +2303,8 @@
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
       "videoId": "zVUQGcsdM5I"
     },
-    "source": "Nutty Feeder Cam"
+    "source": "Nutty Feeder Cam",
+    "status": "replay"
   },
   {
     "id": "italy-feeder",
@@ -2320,6 +2323,7 @@
       "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw",
       "videoId": "vbVEYSty424"
     },
-    "source": "Garden Friends"
+    "source": "Garden Friends",
+    "status": "replay"
   }
 ]
