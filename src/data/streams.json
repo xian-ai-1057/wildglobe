@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "8-uU5_2esk8",
+      "videoId": "PYtB5LKVyQI",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "VPE9jbDaXMU",
+      "videoId": "DkM1zc87H70",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -526,7 +526,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "QX6wl83ZPkM",
+      "videoId": "aNvX4er4lqo",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -2284,7 +2284,8 @@
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
       "videoId": "7MyiecADAUA"
     },
-    "source": "Luka&Animals"
+    "source": "Luka&Animals",
+    "status": "replay"
   },
   {
     "id": "norway-feeder",
@@ -2323,6 +2324,7 @@
       "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw",
       "videoId": "JueftDjmG6U"
     },
-    "source": "Garden Friends"
+    "source": "Garden Friends",
+    "status": "replay"
   }
 ]
