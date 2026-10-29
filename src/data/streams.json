@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "NXglwDKOUSw",
+      "videoId": "8-uU5_2esk8",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "yxTffb_qQBU",
+      "videoId": "FvMN-LMNoSY",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -526,7 +526,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "kGbpo7YCoZQ",
+      "videoId": "QX6wl83ZPkM",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -2167,7 +2167,8 @@
       "videoId": "vFpjuI4oqac",
       "channelId": "UCiZ6C7QdhB5tbArknP8scag"
     },
-    "source": "Bat World Sanctuary"
+    "source": "Bat World Sanctuary",
+    "status": "offline"
   },
   {
     "id": "hokkaido-squirrel-feeder",
@@ -2184,9 +2185,10 @@
     },
     "youtube": {
       "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ",
-      "videoId": "5jv1YwcpYOg"
+      "videoId": "Aq_dviCIcfU"
     },
-    "source": "野鳥の巣箱カメラ"
+    "source": "野鳥の巣箱カメラ",
+    "status": "replay"
   },
   {
     "id": "north-devon-garden",
@@ -2279,10 +2281,9 @@
     },
     "youtube": {
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
-      "videoId": "gLKCf0GpKBM"
+      "videoId": "7MyiecADAUA"
     },
-    "source": "Luka&Animals",
-    "status": "replay"
+    "source": "Luka&Animals"
   },
   {
     "id": "norway-feeder",
@@ -2299,10 +2300,9 @@
     },
     "youtube": {
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
-      "videoId": "zVUQGcsdM5I"
+      "videoId": "qKs_8I1TA38"
     },
-    "source": "Nutty Feeder Cam",
-    "status": "replay"
+    "source": "Nutty Feeder Cam"
   },
   {
     "id": "italy-feeder",
@@ -2319,9 +2319,8 @@
     },
     "youtube": {
       "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw",
-      "videoId": "vbVEYSty424"
+      "videoId": "JueftDjmG6U"
     },
-    "source": "Garden Friends",
-    "status": "replay"
+    "source": "Garden Friends"
   }
 ]
