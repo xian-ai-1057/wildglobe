@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "FvMN-LMNoSY",
+      "videoId": "VPE9jbDaXMU",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -568,7 +568,8 @@
       "videoId": "1HZr19XDP7Q",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife"
+    "source": "Northwest Ontario Birds & Wildlife",
+    "status": "replay"
   },
   {
     "id": "brooks-falls-low",
@@ -2302,7 +2303,8 @@
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
       "videoId": "qKs_8I1TA38"
     },
-    "source": "Nutty Feeder Cam"
+    "source": "Nutty Feeder Cam",
+    "status": "replay"
   },
   {
     "id": "italy-feeder",
