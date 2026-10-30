@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "PYtB5LKVyQI",
+      "videoId": "0KOlViLoUlI",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "DkM1zc87H70",
+      "videoId": "B-JYDxPhC8E",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -565,11 +565,10 @@
       "en": "Raccoons, deer, foxes"
     },
     "youtube": {
-      "videoId": "1HZr19XDP7Q",
+      "videoId": "44Cp0mpPyyo",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife",
-    "status": "replay"
+    "source": "Northwest Ontario Birds & Wildlife"
   },
   {
     "id": "brooks-falls-low",
@@ -2088,11 +2087,10 @@
       "en": "Bald eagles"
     },
     "youtube": {
-      "videoId": "ApDQVWaGNmY",
+      "videoId": "GKThKQcUkC8",
       "channelId": "UCtMr9ZgraacKwDyBhA_FbqQ"
     },
-    "source": "Wildlife Rescue of Dade County",
-    "status": "replay"
+    "source": "Wildlife Rescue of Dade County"
   },
   {
     "id": "traverse-city-eagles",
@@ -2281,10 +2279,9 @@
     },
     "youtube": {
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
-      "videoId": "7MyiecADAUA"
+      "videoId": "ObjDNMZjlnQ"
     },
-    "source": "Luka&Animals",
-    "status": "replay"
+    "source": "Luka&Animals"
   },
   {
     "id": "norway-feeder",
@@ -2301,10 +2298,9 @@
     },
     "youtube": {
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
-      "videoId": "qKs_8I1TA38"
+      "videoId": "ZCKDhdXb0ro"
     },
-    "source": "Nutty Feeder Cam",
-    "status": "replay"
+    "source": "Nutty Feeder Cam"
   },
   {
     "id": "italy-feeder",
@@ -2321,9 +2317,8 @@
     },
     "youtube": {
       "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw",
-      "videoId": "JueftDjmG6U"
+      "videoId": "Rr7nIHGCXQs"
     },
-    "source": "Garden Friends",
-    "status": "replay"
+    "source": "Garden Friends"
   }
 ]
