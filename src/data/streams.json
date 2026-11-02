@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "TQpPXXVBxxM",
+      "videoId": "WgtGYvG4lJQ",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "ypKo7tdQYvw",
+      "videoId": "q5ASbZyuxRg",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -565,11 +565,10 @@
       "en": "Raccoons, deer, foxes"
     },
     "youtube": {
-      "videoId": "TX-83PoLgs4",
+      "videoId": "nmKtrHfWp-c",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife",
-    "status": "replay"
+    "source": "Northwest Ontario Birds & Wildlife"
   },
   {
     "id": "brooks-falls-low",
@@ -2281,10 +2280,9 @@
     },
     "youtube": {
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
-      "videoId": "xUAmx6TPIsE"
+      "videoId": "pGKR95BWhHs"
     },
-    "source": "Luka&Animals",
-    "status": "replay"
+    "source": "Luka&Animals"
   },
   {
     "id": "norway-feeder",
@@ -2321,9 +2319,8 @@
     },
     "youtube": {
       "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw",
-      "videoId": "xLdWtVVHgR4"
+      "videoId": "j5700YN2Y2k"
     },
-    "source": "Garden Friends",
-    "status": "replay"
+    "source": "Garden Friends"
   }
 ]
