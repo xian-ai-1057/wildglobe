@@ -241,10 +241,11 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "WgtGYvG4lJQ",
+      "videoId": "sPOTl-5gmnw",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
-    "source": "SBC-TV"
+    "source": "SBC-TV",
+    "status": "replay"
   },
   {
     "id": "boteti-river",
@@ -507,7 +508,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "q5ASbZyuxRg",
+      "videoId": "AORifa_v2Uo",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -526,7 +527,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "d5kCmY177HU",
+      "videoId": "GAMUAOXD7C8",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -568,7 +569,8 @@
       "videoId": "nmKtrHfWp-c",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife"
+    "source": "Northwest Ontario Birds & Wildlife",
+    "status": "replay"
   },
   {
     "id": "brooks-falls-low",
@@ -2184,9 +2186,10 @@
     },
     "youtube": {
       "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ",
-      "videoId": "Bbn1_NcMtfk"
+      "videoId": "3si3JSc5SZM"
     },
-    "source": "野鳥の巣箱カメラ"
+    "source": "野鳥の巣箱カメラ",
+    "status": "replay"
   },
   {
     "id": "north-devon-garden",
@@ -2240,10 +2243,11 @@
       "en": "Garden birds, hedgehogs, squirrels"
     },
     "youtube": {
-      "videoId": "mGA90HH30BU",
+      "videoId": "BZfA6Hf07wg",
       "channelId": "UCq2IeUZsZIOTM8QjqMezPhg"
     },
-    "source": "Oxford Wildlife Cam"
+    "source": "Oxford Wildlife Cam",
+    "status": "replay"
   },
   {
     "id": "hamilton-feeder",
@@ -2259,11 +2263,10 @@
       "en": "Blue jays, cardinals, chickadees"
     },
     "youtube": {
-      "videoId": "TlZsnEZPVfk",
+      "videoId": "8wmdWknLwb0",
       "channelId": "UCe-0f6vKmLAMRgvj9nqQCdw"
     },
-    "source": "Hamilton Pecking Order",
-    "status": "replay"
+    "source": "Hamilton Pecking Order"
   },
   {
     "id": "slovenia-orchard-feeder",
@@ -2299,7 +2302,7 @@
     },
     "youtube": {
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
-      "videoId": "y6zrvluNQMw"
+      "videoId": "Iqjvqn_sm9k"
     },
     "source": "Nutty Feeder Cam",
     "status": "replay"
