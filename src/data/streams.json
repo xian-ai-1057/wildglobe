@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "j9SqyQFlB2Y",
+      "videoId": "dhlbD8I1gPc",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "FM-b1E-D0AE",
+      "videoId": "IuoC23gi_AM",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -568,7 +568,8 @@
       "videoId": "QEtA89zJUJg",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife"
+    "source": "Northwest Ontario Birds & Wildlife",
+    "status": "replay"
   },
   {
     "id": "brooks-falls-low",
@@ -1098,7 +1099,7 @@
       "en": "Javelinas, hummingbirds, birds"
     },
     "youtube": {
-      "videoId": "8UJzCnGwHHw",
+      "videoId": "QNUzZls4N9Y",
       "channelId": "UCpLLHFUEHb89Luv-Gj6ZMgA"
     },
     "source": "explore.org"
@@ -2261,11 +2262,10 @@
       "en": "Blue jays, cardinals, chickadees"
     },
     "youtube": {
-      "videoId": "TlZsnEZPVfk",
+      "videoId": "SByA2mnKbV8",
       "channelId": "UCe-0f6vKmLAMRgvj9nqQCdw"
     },
-    "source": "Hamilton Pecking Order",
-    "status": "replay"
+    "source": "Hamilton Pecking Order"
   },
   {
     "id": "slovenia-orchard-feeder",
@@ -2284,7 +2284,8 @@
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
       "videoId": "uJj4Iwyf5w0"
     },
-    "source": "Luka&Animals"
+    "source": "Luka&Animals",
+    "status": "replay"
   },
   {
     "id": "norway-feeder",
@@ -2303,7 +2304,8 @@
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
       "videoId": "z24X8nLNvSw"
     },
-    "source": "Nutty Feeder Cam"
+    "source": "Nutty Feeder Cam",
+    "status": "replay"
   },
   {
     "id": "italy-feeder",
