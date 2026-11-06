@@ -508,7 +508,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "RDcNFczggMk",
+      "videoId": "vjvkW-lLdEE",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -527,7 +527,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "88PtO5ethN0",
+      "videoId": "ONtcvlpGtos",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -1026,7 +1026,7 @@
       "channelId": "UC8NnosPOvXnm0O1u5YnLQiw"
     },
     "source": "explore.org × Audubon",
-    "status": "replay"
+    "status": "offline"
   },
   {
     "id": "mississippi-flyway",
@@ -2186,10 +2186,9 @@
     },
     "youtube": {
       "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ",
-      "videoId": "LBCd7AeN470"
+      "videoId": "UYtc3aVkcFg"
     },
-    "source": "野鳥の巣箱カメラ",
-    "status": "replay"
+    "source": "野鳥の巣箱カメラ"
   },
   {
     "id": "north-devon-garden",
