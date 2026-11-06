@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "yj6ob1OZNPM",
+      "videoId": "UoBKXNkYJZQ",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -566,11 +566,10 @@
       "en": "Raccoons, deer, foxes"
     },
     "youtube": {
-      "videoId": "QEtA89zJUJg",
+      "videoId": "6uo1tfSw55o",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife",
-    "status": "replay"
+    "source": "Northwest Ontario Birds & Wildlife"
   },
   {
     "id": "brooks-falls-low",
@@ -1442,11 +1441,10 @@
       "en": "Tigers"
     },
     "youtube": {
-      "videoId": "PcAOecvAh1U",
+      "videoId": "e2R11FJN0QI",
       "channelId": "UC6B91hbZkdiDjWdu00QCcew"
     },
-    "source": "explore.org × Turpentine Creek",
-    "status": "offline"
+    "source": "explore.org × Turpentine Creek"
   },
   {
     "id": "turpentine-dutchess",
@@ -2286,7 +2284,8 @@
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
       "videoId": "uTiyezyUwes"
     },
-    "source": "Luka&Animals"
+    "source": "Luka&Animals",
+    "status": "replay"
   },
   {
     "id": "norway-feeder",
@@ -2305,7 +2304,8 @@
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
       "videoId": "DwJx0FwJ79k"
     },
-    "source": "Nutty Feeder Cam"
+    "source": "Nutty Feeder Cam",
+    "status": "replay"
   },
   {
     "id": "italy-feeder",
@@ -2324,6 +2324,7 @@
       "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw",
       "videoId": "6goiQdjmsRE"
     },
-    "source": "Garden Friends"
+    "source": "Garden Friends",
+    "status": "replay"
   }
 ]
