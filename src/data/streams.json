@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "q1tsWt1UpvM",
+      "videoId": "3NGHedjQ1XE",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -2261,7 +2261,7 @@
       "en": "Blue jays, cardinals, chickadees"
     },
     "youtube": {
-      "videoId": "jy4h8Wh6scw",
+      "videoId": "frpKyF2iXmM",
       "channelId": "UCe-0f6vKmLAMRgvj9nqQCdw"
     },
     "source": "Hamilton Pecking Order"
@@ -2283,7 +2283,8 @@
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
       "videoId": "ALKUvIER8m8"
     },
-    "source": "Luka&Animals"
+    "source": "Luka&Animals",
+    "status": "replay"
   },
   {
     "id": "norway-feeder",
@@ -2302,7 +2303,8 @@
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
       "videoId": "2wtAUqDlPHI"
     },
-    "source": "Nutty Feeder Cam"
+    "source": "Nutty Feeder Cam",
+    "status": "replay"
   },
   {
     "id": "italy-feeder",
