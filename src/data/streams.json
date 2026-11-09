@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "KEBeEfcbvao",
+      "videoId": "dDgKEDEmdno",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "SweFUcQpzp4",
+      "videoId": "p2zG3a5uEgs",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -526,7 +526,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "fi5h4GSI50c",
+      "videoId": "Nrjx7eKGL2Q",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -682,7 +682,8 @@
       "videoId": "G839-Yj4Cvo",
       "channelId": "UC2Sk0aXLq3ADkH_USGPKT_Q"
     },
-    "source": "explore.org"
+    "source": "explore.org",
+    "status": "offline"
   },
   {
     "id": "anan-fishing-hole-4",
@@ -701,7 +702,8 @@
       "videoId": "ypMu3yA7h3s",
       "channelId": "UC2Sk0aXLq3ADkH_USGPKT_Q"
     },
-    "source": "explore.org"
+    "source": "explore.org",
+    "status": "offline"
   },
   {
     "id": "anan-forest-view",
@@ -720,7 +722,8 @@
       "videoId": "RjrRz3t5kO4",
       "channelId": "UC2Sk0aXLq3ADkH_USGPKT_Q"
     },
-    "source": "explore.org"
+    "source": "explore.org",
+    "status": "offline"
   },
   {
     "id": "mendenhall-mountain-goats",
@@ -2031,10 +2034,11 @@
       "en": "Bald eagles"
     },
     "youtube": {
-      "videoId": "-NKwig_bAtM",
+      "videoId": "t8WKT0zRMxA",
       "channelId": "UCwAQxsF3Vgf6Vbrfen-Sm7A"
     },
-    "source": "Friends of the Redding Eagles"
+    "source": "Friends of the Redding Eagles",
+    "status": "replay"
   },
   {
     "id": "swfl-eagles",
@@ -2283,7 +2287,8 @@
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
       "videoId": "BaFi-m7MJT8"
     },
-    "source": "Luka&Animals"
+    "source": "Luka&Animals",
+    "status": "replay"
   },
   {
     "id": "norway-feeder",
@@ -2302,7 +2307,8 @@
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
       "videoId": "ntz7Y4DwOi0"
     },
-    "source": "Nutty Feeder Cam"
+    "source": "Nutty Feeder Cam",
+    "status": "replay"
   },
   {
     "id": "italy-feeder",
