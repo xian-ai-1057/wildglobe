@@ -244,7 +244,8 @@
       "videoId": "iF1inbofJN8",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
-    "source": "SBC-TV"
+    "source": "SBC-TV",
+    "status": "replay"
   },
   {
     "id": "boteti-river",
@@ -507,7 +508,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "70qemUpxp5U",
+      "videoId": "VoIVOMFFPpU",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -526,7 +527,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "ezuqeLEglLY",
+      "videoId": "8qFTyF21RjY",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -565,10 +566,11 @@
       "en": "Raccoons, deer, foxes"
     },
     "youtube": {
-      "videoId": "6uo1tfSw55o",
+      "videoId": "sdv6EvYGczw",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife"
+    "source": "Northwest Ontario Birds & Wildlife",
+    "status": "replay"
   },
   {
     "id": "brooks-falls-low",
@@ -2190,7 +2192,8 @@
       "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ",
       "videoId": "cNaFgrJSbHA"
     },
-    "source": "野鳥の巣箱カメラ"
+    "source": "野鳥の巣箱カメラ",
+    "status": "replay"
   },
   {
     "id": "north-devon-garden",
@@ -2302,10 +2305,9 @@
     },
     "youtube": {
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
-      "videoId": "29xd84KPOjE"
+      "videoId": "76C5YOAq030"
     },
-    "source": "Nutty Feeder Cam",
-    "status": "replay"
+    "source": "Nutty Feeder Cam"
   },
   {
     "id": "italy-feeder",
