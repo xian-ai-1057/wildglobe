@@ -527,7 +527,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "SszB5FxKxlM",
+      "videoId": "vZ1NsBCBmaI",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -569,7 +569,8 @@
       "videoId": "A9Eh_PJiYl8",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife"
+    "source": "Northwest Ontario Birds & Wildlife",
+    "status": "replay"
   },
   {
     "id": "brooks-falls-low",
@@ -1941,8 +1942,7 @@
       "videoId": "NqOmHpwMUxs",
       "channelId": "UCl-QNzkm3zAmoCqedCL1EPQ"
     },
-    "source": "Seattle Aquarium",
-    "status": "offline"
+    "source": "Seattle Aquarium"
   },
   {
     "id": "kc-zoo-polar-bears",
@@ -2190,10 +2190,9 @@
     },
     "youtube": {
       "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ",
-      "videoId": "lxQEndVGiG8"
+      "videoId": "nxIxjZz6siM"
     },
-    "source": "野鳥の巣箱カメラ",
-    "status": "replay"
+    "source": "野鳥の巣箱カメラ"
   },
   {
     "id": "north-devon-garden",
