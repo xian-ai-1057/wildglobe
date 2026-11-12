@@ -244,7 +244,8 @@
       "videoId": "W1BZUuxGlBI",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
-    "source": "SBC-TV"
+    "source": "SBC-TV",
+    "status": "replay"
   },
   {
     "id": "boteti-river",
@@ -507,7 +508,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "7HAaTyI2tJo",
+      "videoId": "wKmn_SrXjyk",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -565,7 +566,7 @@
       "en": "Raccoons, deer, foxes"
     },
     "youtube": {
-      "videoId": "Ua-V-gYCNgA",
+      "videoId": "A9Eh_PJiYl8",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
     "source": "Northwest Ontario Birds & Wildlife"
@@ -2287,7 +2288,8 @@
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
       "videoId": "mKSXBdOiAKo"
     },
-    "source": "Luka&Animals"
+    "source": "Luka&Animals",
+    "status": "replay"
   },
   {
     "id": "norway-feeder",
@@ -2306,7 +2308,8 @@
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
       "videoId": "Qs2GCdQ4tv0"
     },
-    "source": "Nutty Feeder Cam"
+    "source": "Nutty Feeder Cam",
+    "status": "replay"
   },
   {
     "id": "italy-feeder",
