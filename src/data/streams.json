@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "sgxZ-rqJJhc",
+      "videoId": "Co1GxBB-Qus",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -526,7 +526,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "PSHVU319mGU",
+      "videoId": "YdRWqUoOo_Q",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -2326,6 +2326,7 @@
       "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw",
       "videoId": "S2Q4CeoWGIY"
     },
-    "source": "Garden Friends"
+    "source": "Garden Friends",
+    "status": "replay"
   }
 ]
