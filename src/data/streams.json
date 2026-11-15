@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "CkxaiC4B49w",
+      "videoId": "3oNIP08FA1g",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "yfG2jhGYKwE",
+      "videoId": "cSA4o6t0Sbc",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -526,7 +526,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "0hIK6ioA5J0",
+      "videoId": "HgSxf-2DoKk",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -2264,10 +2264,11 @@
       "en": "Blue jays, cardinals, chickadees"
     },
     "youtube": {
-      "videoId": "frpKyF2iXmM",
+      "videoId": "SByA2mnKbV8",
       "channelId": "UCe-0f6vKmLAMRgvj9nqQCdw"
     },
-    "source": "Hamilton Pecking Order"
+    "source": "Hamilton Pecking Order",
+    "status": "replay"
   },
   {
     "id": "slovenia-orchard-feeder",
@@ -2286,7 +2287,8 @@
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
       "videoId": "lhWxyvBFCp8"
     },
-    "source": "Luka&Animals"
+    "source": "Luka&Animals",
+    "status": "replay"
   },
   {
     "id": "norway-feeder",
@@ -2305,7 +2307,8 @@
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
       "videoId": "gf8v9BLdQhs"
     },
-    "source": "Nutty Feeder Cam"
+    "source": "Nutty Feeder Cam",
+    "status": "replay"
   },
   {
     "id": "italy-feeder",
