@@ -508,7 +508,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "k1Fr-uLOBJ4",
+      "videoId": "YhRL-LXy1Q4",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -566,7 +566,7 @@
       "en": "Raccoons, deer, foxes"
     },
     "youtube": {
-      "videoId": "5nY6BbhdZgA",
+      "videoId": "GAmRxvBoDC0",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
     "source": "Northwest Ontario Birds & Wildlife"
@@ -2246,10 +2246,11 @@
       "en": "Garden birds, hedgehogs, squirrels"
     },
     "youtube": {
-      "videoId": "KLlY_zF-SGs",
+      "videoId": "BZfA6Hf07wg",
       "channelId": "UCq2IeUZsZIOTM8QjqMezPhg"
     },
-    "source": "Oxford Wildlife Cam"
+    "source": "Oxford Wildlife Cam",
+    "status": "replay"
   },
   {
     "id": "hamilton-feeder",
@@ -2265,11 +2266,10 @@
       "en": "Blue jays, cardinals, chickadees"
     },
     "youtube": {
-      "videoId": "SByA2mnKbV8",
+      "videoId": "KGCSNzAV888",
       "channelId": "UCe-0f6vKmLAMRgvj9nqQCdw"
     },
-    "source": "Hamilton Pecking Order",
-    "status": "replay"
+    "source": "Hamilton Pecking Order"
   },
   {
     "id": "slovenia-orchard-feeder",
@@ -2288,7 +2288,8 @@
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
       "videoId": "UZE7rMWP7Kk"
     },
-    "source": "Luka&Animals"
+    "source": "Luka&Animals",
+    "status": "replay"
   },
   {
     "id": "norway-feeder",
@@ -2307,7 +2308,8 @@
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
       "videoId": "PulbRYBH2NU"
     },
-    "source": "Nutty Feeder Cam"
+    "source": "Nutty Feeder Cam",
+    "status": "replay"
   },
   {
     "id": "italy-feeder",
