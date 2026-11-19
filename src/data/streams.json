@@ -241,11 +241,10 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "drNjv9mnzQo",
+      "videoId": "d-mDdw_Hng8",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
-    "source": "SBC-TV",
-    "status": "replay"
+    "source": "SBC-TV"
   },
   {
     "id": "boteti-river",
@@ -508,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "5irzTj7WYPw",
+      "videoId": "xhg2CjuRuPM",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -527,7 +526,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "hus-1tS7CWA",
+      "videoId": "rm6M2Lb_nTc",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -566,11 +565,10 @@
       "en": "Raccoons, deer, foxes"
     },
     "youtube": {
-      "videoId": "WJJSfZ8OA0w",
+      "videoId": "LFxcJxNtc7c",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife",
-    "status": "replay"
+    "source": "Northwest Ontario Birds & Wildlife"
   },
   {
     "id": "brooks-falls-low",
@@ -2247,11 +2245,10 @@
       "en": "Garden birds, hedgehogs, squirrels"
     },
     "youtube": {
-      "videoId": "BZfA6Hf07wg",
+      "videoId": "zNgVP3er9Hk",
       "channelId": "UCq2IeUZsZIOTM8QjqMezPhg"
     },
-    "source": "Oxford Wildlife Cam",
-    "status": "replay"
+    "source": "Oxford Wildlife Cam"
   },
   {
     "id": "hamilton-feeder",
@@ -2289,7 +2286,8 @@
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
       "videoId": "axV43twBEWc"
     },
-    "source": "Luka&Animals"
+    "source": "Luka&Animals",
+    "status": "replay"
   },
   {
     "id": "norway-feeder",
@@ -2308,7 +2306,8 @@
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
       "videoId": "YDKAls5xrt8"
     },
-    "source": "Nutty Feeder Cam"
+    "source": "Nutty Feeder Cam",
+    "status": "replay"
   },
   {
     "id": "italy-feeder",
