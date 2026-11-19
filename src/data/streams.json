@@ -241,10 +241,11 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "uLvwJ90HXHQ",
+      "videoId": "drNjv9mnzQo",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
-    "source": "SBC-TV"
+    "source": "SBC-TV",
+    "status": "replay"
   },
   {
     "id": "boteti-river",
@@ -507,7 +508,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "QCF4vfS3Xa0",
+      "videoId": "5irzTj7WYPw",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -2191,7 +2192,8 @@
       "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ",
       "videoId": "Jb-lCLPhv-A"
     },
-    "source": "野鳥の巣箱カメラ"
+    "source": "野鳥の巣箱カメラ",
+    "status": "replay"
   },
   {
     "id": "north-devon-garden",
@@ -2285,10 +2287,9 @@
     },
     "youtube": {
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
-      "videoId": "Ad7vXW6i-kE"
+      "videoId": "axV43twBEWc"
     },
-    "source": "Luka&Animals",
-    "status": "replay"
+    "source": "Luka&Animals"
   },
   {
     "id": "norway-feeder",
@@ -2305,10 +2306,9 @@
     },
     "youtube": {
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
-      "videoId": "aq8knoelx58"
+      "videoId": "YDKAls5xrt8"
     },
-    "source": "Nutty Feeder Cam",
-    "status": "replay"
+    "source": "Nutty Feeder Cam"
   },
   {
     "id": "italy-feeder",
