@@ -526,7 +526,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "ybqCW9hX_Tw",
+      "videoId": "H_rhe0FGNGY",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -568,7 +568,8 @@
       "videoId": "alXvMeqINIg",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife"
+    "source": "Northwest Ontario Birds & Wildlife",
+    "status": "replay"
   },
   {
     "id": "brooks-falls-low",
@@ -2188,10 +2189,9 @@
     },
     "youtube": {
       "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ",
-      "videoId": "8scI4xbNAPM"
+      "videoId": "CpDRzWYMqPM"
     },
-    "source": "野鳥の巣箱カメラ",
-    "status": "replay"
+    "source": "野鳥の巣箱カメラ"
   },
   {
     "id": "north-devon-garden",
@@ -2264,11 +2264,10 @@
       "en": "Blue jays, cardinals, chickadees"
     },
     "youtube": {
-      "videoId": "SByA2mnKbV8",
+      "videoId": "tb5276dtUU4",
       "channelId": "UCe-0f6vKmLAMRgvj9nqQCdw"
     },
-    "source": "Hamilton Pecking Order",
-    "status": "replay"
+    "source": "Hamilton Pecking Order"
   },
   {
     "id": "slovenia-orchard-feeder",
