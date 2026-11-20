@@ -241,10 +241,11 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "d-mDdw_Hng8",
+      "videoId": "Q4W6JK5ys64",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
-    "source": "SBC-TV"
+    "source": "SBC-TV",
+    "status": "replay"
   },
   {
     "id": "boteti-river",
@@ -507,7 +508,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "j7xkJp1DyXM",
+      "videoId": "VZfpL2-BmSA",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -2264,10 +2265,11 @@
       "en": "Blue jays, cardinals, chickadees"
     },
     "youtube": {
-      "videoId": "KGCSNzAV888",
+      "videoId": "SByA2mnKbV8",
       "channelId": "UCe-0f6vKmLAMRgvj9nqQCdw"
     },
-    "source": "Hamilton Pecking Order"
+    "source": "Hamilton Pecking Order",
+    "status": "replay"
   },
   {
     "id": "slovenia-orchard-feeder",
@@ -2284,10 +2286,9 @@
     },
     "youtube": {
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
-      "videoId": "axV43twBEWc"
+      "videoId": "bDcal8HMlvs"
     },
-    "source": "Luka&Animals",
-    "status": "replay"
+    "source": "Luka&Animals"
   },
   {
     "id": "norway-feeder",
