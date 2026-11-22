@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "AGrqpCIuqlo",
+      "videoId": "P1INo1TGHdI",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -526,7 +526,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "miqiMsE6GCQ",
+      "videoId": "QBRXGEFnML4",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -565,11 +565,10 @@
       "en": "Raccoons, deer, foxes"
     },
     "youtube": {
-      "videoId": "QBQZitbm-f4",
+      "videoId": "d660el42LsY",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife",
-    "status": "replay"
+    "source": "Northwest Ontario Birds & Wildlife"
   },
   {
     "id": "brooks-falls-low",
@@ -2191,7 +2190,8 @@
       "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ",
       "videoId": "G4Zi4c4Mj4o"
     },
-    "source": "野鳥の巣箱カメラ"
+    "source": "野鳥の巣箱カメラ",
+    "status": "replay"
   },
   {
     "id": "north-devon-garden",
@@ -2264,7 +2264,7 @@
       "en": "Blue jays, cardinals, chickadees"
     },
     "youtube": {
-      "videoId": "tb5276dtUU4",
+      "videoId": "1b5elItY07I",
       "channelId": "UCe-0f6vKmLAMRgvj9nqQCdw"
     },
     "source": "Hamilton Pecking Order"
@@ -2303,7 +2303,7 @@
     },
     "youtube": {
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
-      "videoId": "r1wzIylbSzQ"
+      "videoId": "QnF0P9TLSLw"
     },
     "source": "Nutty Feeder Cam",
     "status": "replay"
