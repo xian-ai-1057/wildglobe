@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "Fip15cWIsOQ",
+      "videoId": "b4RHU2Z8XwM",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "F63h2ayCi1Y",
+      "videoId": "SlkYdCEYODw",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -526,7 +526,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "vPwXjOovsqw",
+      "videoId": "dAJwe8NvzfA",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -565,11 +565,10 @@
       "en": "Raccoons, deer, foxes"
     },
     "youtube": {
-      "videoId": "GLb9lMM4-W0",
+      "videoId": "nPyImbVliGg",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife",
-    "status": "replay"
+    "source": "Northwest Ontario Birds & Wildlife"
   },
   {
     "id": "brooks-falls-low",
@@ -2189,9 +2188,10 @@
     },
     "youtube": {
       "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ",
-      "videoId": "I4fwxO--qnM"
+      "videoId": "qhqZYZr7vDY"
     },
-    "source": "野鳥の巣箱カメラ"
+    "source": "野鳥の巣箱カメラ",
+    "status": "replay"
   },
   {
     "id": "north-devon-garden",
@@ -2284,7 +2284,7 @@
     },
     "youtube": {
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
-      "videoId": "uIk7JDXzfn0"
+      "videoId": "q3jP7pC6g7o"
     },
     "source": "Luka&Animals",
     "status": "replay"
@@ -2304,7 +2304,7 @@
     },
     "youtube": {
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
-      "videoId": "GLZbmmBoDMY"
+      "videoId": "T2TW1ptq6-M"
     },
     "source": "Nutty Feeder Cam",
     "status": "replay"
@@ -2324,7 +2324,7 @@
     },
     "youtube": {
       "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw",
-      "videoId": "m1L1lBhZ6fQ"
+      "videoId": "-Ykhl0iMVF0"
     },
     "source": "Garden Friends",
     "status": "replay"
