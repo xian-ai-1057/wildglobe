@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "SU6fmZZC5MU",
+      "videoId": "Fip15cWIsOQ",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "yCgZpDKVRVo",
+      "videoId": "F63h2ayCi1Y",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -568,7 +568,8 @@
       "videoId": "GLb9lMM4-W0",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife"
+    "source": "Northwest Ontario Birds & Wildlife",
+    "status": "replay"
   },
   {
     "id": "brooks-falls-low",
