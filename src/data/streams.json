@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "b4RHU2Z8XwM",
+      "videoId": "LuWjQ0gk6_A",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -488,7 +488,7 @@
       "en": "Tits, flycatchers, wild birds"
     },
     "youtube": {
-      "videoId": "yVxEDHySCYA",
+      "videoId": "_-CkC6j7QOs",
       "channelId": "UC5wwgNqFzkMJA3Z0kRPkAZg"
     },
     "source": "ma2movie"
@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "awa-2P6mIWs",
+      "videoId": "etDTalQsoxI",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -526,7 +526,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "6vfV7V8TquI",
+      "videoId": "zp2GZQT7wGE",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -2191,7 +2191,8 @@
       "channelId": "UCvSsoMntzP6z5-P0qaYQlDQ",
       "videoId": "yWkXUbJQSmA"
     },
-    "source": "野鳥の巣箱カメラ"
+    "source": "野鳥の巣箱カメラ",
+    "status": "replay"
   },
   {
     "id": "north-devon-garden",
@@ -2284,10 +2285,9 @@
     },
     "youtube": {
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
-      "videoId": "q3jP7pC6g7o"
+      "videoId": "7SoZB3oCcQI"
     },
-    "source": "Luka&Animals",
-    "status": "replay"
+    "source": "Luka&Animals"
   },
   {
     "id": "norway-feeder",
@@ -2304,10 +2304,9 @@
     },
     "youtube": {
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
-      "videoId": "T2TW1ptq6-M"
+      "videoId": "HhEv6NIsvG4"
     },
-    "source": "Nutty Feeder Cam",
-    "status": "replay"
+    "source": "Nutty Feeder Cam"
   },
   {
     "id": "italy-feeder",
@@ -2324,9 +2323,8 @@
     },
     "youtube": {
       "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw",
-      "videoId": "IRKrvZ5XpSg"
+      "videoId": "yfVzNYOhlzY"
     },
-    "source": "Garden Friends",
-    "status": "replay"
+    "source": "Garden Friends"
   }
 ]
