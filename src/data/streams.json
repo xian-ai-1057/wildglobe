@@ -241,7 +241,7 @@
       "en": "Lions, elephants, giraffes"
     },
     "youtube": {
-      "videoId": "LuWjQ0gk6_A",
+      "videoId": "yj1KDHDu4PI",
       "channelId": "UCv7WvXfp-l07Z6IuComA36w"
     },
     "source": "SBC-TV"
@@ -507,7 +507,7 @@
       "en": "Kangaroos, parrots, dingoes"
     },
     "youtube": {
-      "videoId": "etDTalQsoxI",
+      "videoId": "AwmVLvuHqPw",
       "channelId": "UCHEnQuiIiNxnzvOWFZReu8g"
     },
     "source": "Watarrka Waterhole Wildlife"
@@ -526,7 +526,7 @@
       "en": "Garden birds, foxes, badgers"
     },
     "youtube": {
-      "videoId": "zp2GZQT7wGE",
+      "videoId": "gL7O7YETxOg",
       "channelId": "UCbk8aByq7psiAKx41MQTnzQ"
     },
     "source": "Scottish Wildlife Garden"
@@ -565,11 +565,10 @@
       "en": "Raccoons, deer, foxes"
     },
     "youtube": {
-      "videoId": "nPyImbVliGg",
+      "videoId": "2Dq1worFRXw",
       "channelId": "UCdzZbM6dNplGbwUHu3oaLCg"
     },
-    "source": "Northwest Ontario Birds & Wildlife",
-    "status": "replay"
+    "source": "Northwest Ontario Birds & Wildlife"
   },
   {
     "id": "brooks-falls-low",
@@ -2287,7 +2286,8 @@
       "channelId": "UCK3s1knJHPvltGJX7KWZrbg",
       "videoId": "7SoZB3oCcQI"
     },
-    "source": "Luka&Animals"
+    "source": "Luka&Animals",
+    "status": "replay"
   },
   {
     "id": "norway-feeder",
@@ -2306,7 +2306,8 @@
       "channelId": "UCe-Yiq2wTFd2oreza9Perjw",
       "videoId": "HhEv6NIsvG4"
     },
-    "source": "Nutty Feeder Cam"
+    "source": "Nutty Feeder Cam",
+    "status": "replay"
   },
   {
     "id": "italy-feeder",
@@ -2325,6 +2326,7 @@
       "channelId": "UCOq2OCN5tRi5ujvG6QjNaaw",
       "videoId": "yfVzNYOhlzY"
     },
-    "source": "Garden Friends"
+    "source": "Garden Friends",
+    "status": "replay"
   }
 ]
